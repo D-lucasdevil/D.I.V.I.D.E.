@@ -44,7 +44,7 @@ This repo serves two purposes:
 
 ## ☠️ License
 
-This repository uses the MIT License.  
+This repository uses the Creative Commons Attribution-NonCommercial 4.0 International License.  
 You may contribute or clone, but remember... **she sees everything.**
 
 ---
