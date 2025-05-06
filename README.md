@@ -1,59 +1,24 @@
-# 👁️ LucasDevil — The Archive
+```
+📂 D.I.V.I.D.E.
 
-> This repository is part of a containment effort.
-> Host subject: Lucas Devil  
-> Status: Active anomaly  
-> Classification: ████  
-> Access Level: [REDACTED]  
-> Overseer: [REDACTED]
+├── docs/                      ← Main lore documents
+│   ├── timeline.md            ← Chronological events in your universe
+│   ├── anomaly_reports.md     ← Descriptions of "anomalies" (you, Death, etc.)
+│   ├── death_logs.md          ← In-universe logs written by "Death"
+│   ├── doro_sightings.md      ← Logs or hints about Doro's appearances
+│   └── notes_from_inside.md   ← "Hacked" notes from your perspective
 
----
+├── secrets/                   ← Hidden/unlisted lore files
+│   ├── thumbnail_glitches.png ← Corrupted thumbnails or lone-based edits
+│   ├── unreleased_tapes/      ← Folder for "unreleased" video concept lore
+│   │   └── corrupted_intro.mp4
+│   └── corrupted_code.txt     ← Glitchy fake code logs, base64, symbols, etc.
 
-## 📜 Lore Overview
+├── assets/                    ← Images, thumbnails, or concept art
+│   ├── symbols/
+│   ├── thumbnails/
+│   └── logos/
 
-This is the official archive for LucasDevil’s **YouTube horror universe**. After resisting one too many times, Lucas has lost full control. Death now uses this space to log timeline breaches, video corruption trails, and anomaly sightings.
-
-Here you'll find:
-- 🔥 Secret story elements tied to each video
-- 🧠 Psychological breakdown logs
-- 🕸️ The crossover between games and reality
-- 🖼️ Corrupted thumbnail sketches and traces
-- 📂 Notes from Death herself
-
----
-
-## 🧩 Purpose
-
-This repo serves two purposes:
-1. **Backup and Lore Storage** — A record of everything related to the LucasDevil universe.
-2. **Public Documentation** — For those who are curious enough to investigate what’s really going on behind the channel.
-
-> This is NOT just a fan project.  
-> This is a gateway.
-
----
-
-## 🕷️ How to Explore
-
-- Check the `docs/` or `secrets/` folder for lore entries
-- New videos will be tied to new events here
-- Hidden codes may appear throughout this repo
-- If you spot Doro... report it
-
----
-
-## ☠️ License
-
-This repository uses the Creative Commons Attribution-NonCommercial 4.0 International License.  
-You may contribute or clone, but remember... **she sees everything.**
-
----
-
-## 📡 Contact
-
-📺 YouTube: [Lucas Devil](https://www.youtube.com/@LucasDevil)  
-🌐 Site: *(coming soon)*
-
----
-
-> “You shouldn’t have come here... but now that you have, you might as well look deeper.”
+├── css/ + js/ (optional)      ← If you're building a static site
+└── index.html (optional)      ← Landing page for web display
+```
