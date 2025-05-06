@@ -52,7 +52,6 @@ You may contribute or clone, but remember... **she sees everything.**
 ## 📡 Contact
 
 📺 YouTube: [Lucas Devil](https://www.youtube.com/@LucasDevil)  
-🐦 Twitter: [@LucasDevilYT](#)  
 🌐 Site: *(coming soon)*
 
 ---
