@@ -5,7 +5,7 @@
 > Status: Active anomaly  
 > Classification: ████  
 > Access Level: [REDACTED]  
-> Overseer: Death
+> Overseer: [REDACTED]
 
 ---
 
