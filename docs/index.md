@@ -2,12 +2,10 @@
 
 <div>
   
-  <a href="/docs/timeline">Timeline of Events</a>
-  
-  <a href="/docs/anomaly_reports">Anomaly Reports</a>
-  
-  <a href="/docs/doro_sightings">Doro Sightings</a>
-  
-  <a href="/docs/notes_from_inside">Notes from Inside</a>
+<a href="/docs/timeline.md">Timeline of Events</a>
+
+<a href="/docs/anomaly_reports.md">Anomaly Reports</a>
+
+<a href="/docs/doro_sightings.md">Doro Sightings</a>
   
 </div>
