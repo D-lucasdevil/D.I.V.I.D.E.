@@ -3,11 +3,15 @@ layout: default
 title: "Anomaly Reports"
 ---
 
-# Anomalies
 
-Here are the documented reports of various anomalies observed in the **D.I.V.I.D.E.** universe:
+# Anomaly Reports
 
-- **Anomaly Report 001**: A sudden distortion of space-time recorded in 2005.
-- **Anomaly Report 002**: Reality glitches first detected in 2023.
+Below are the documented anomalies:
 
+- [LD-000 — [REDACTED]](LD-000.md)
+- [LD-001]()
+- [LD-002]()
+- [LD-003]()
+
+---
 
