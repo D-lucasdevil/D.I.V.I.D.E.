@@ -1,10 +1,5 @@
 ## 📁 D.I.V.I.D.E Files:
 
-<style>
-  a {
-    margin-bottom: 10px; /* Adjust the value as needed */
-  }
-</style>
 
 <div>
   <a href="timeline.md">Timeline of Events</a>
