@@ -1,14 +1,37 @@
-a {
-  display: inline-block;
-  padding: 10px 15px;
-  background: #222;
-  color: #fff;
-  text-decoration: none;
-  border-radius: 4px;
-  margin: 5px;
-  transition: background 0.2s ease;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>D.I.V.I.D.E. Wiki</title>
+  
+  <style>
+    /* CSS for link styling */
+    a {
+      margin-bottom: 10px; /* Adds space between links */
+      display: block;      /* Makes the links block-level elements (stacked vertically) */
+      text-decoration: none; /* Removes underline */
+      color: #fff; /* Changes text color */
+      padding: 5px 10px; /* Adds padding around the text */
+    }
 
-a:hover {
-  background: crimson;
-}
+    /* CSS for hover effect */
+    a:hover {
+      background-color: crimson; /* Changes background color when hovered */
+    }
+  </style>
+  
+</head>
+<body>
+  <h1>📁 D.I.V.I.D.E. Files</h1>
+  
+  <div>
+    <!-- Links to other pages -->
+    <a href="timeline.md">Timeline of Events</a>
+    <a href="anomaly_reports.md">Anomaly Reports</a>
+    <a href="doro_sightings.md">Doro Sightings</a>
+    <a href="notes_from_inside.md">Notes from Inside</a>
+  </div>
+
+</body>
+</html>
