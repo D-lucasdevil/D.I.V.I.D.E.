@@ -11,7 +11,7 @@ Below are the documented anomalies:
 - [LD-000 — [REDACTED]](LD-000.md)
 - [LD-001](LD-001.md)
 - [LD-002](LD-002.md)
-- [LD-003]()
+- [LD-003](LD-003.md)
 - [LD-004]()
 - [LD-005]()
 - [LD-006]()
