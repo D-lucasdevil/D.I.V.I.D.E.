@@ -4,7 +4,7 @@
   
 <a href="timeline.md">Timeline of Events</a>
 
-<a href="anomaly_reports.md">Anomaly Reports</a>
+<a href="anomalies.md">Anomaly Reports</a>
 
 <a href="doro_sightings.md">Doro Sightings</a>
 
