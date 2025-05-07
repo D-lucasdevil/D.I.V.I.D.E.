@@ -3,7 +3,7 @@ layout: default
 title: "Anomaly Reports"
 ---
 
-# Anomaly Reports
+# Anomalies
 
 Here are the documented reports of various anomalies observed in the **D.I.V.I.D.E.** universe:
 
