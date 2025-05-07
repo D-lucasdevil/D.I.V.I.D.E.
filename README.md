@@ -9,8 +9,8 @@
 
 ├── docs/                      ← Main lore documents
 │   ├── timeline.md            ← Chronological events in your universe
-│   ├── anomaly_reports.md     ← Descriptions of "anomalies" (you, d, etc.)
-│   ├── d_logs.md          ← In-universe logs written by "d"
+│   ├── anomaly_reports.md     ← Descriptions of "anomalies" (you, D, etc.)
+│   ├── d_logs.md          ← In-universe logs written by "D"
 │   ├── doro_sightings.md      ← Logs or hints about Doro's appearances
 │   └── notes_from_inside.md   ← "Hacked" notes from your perspective
 
