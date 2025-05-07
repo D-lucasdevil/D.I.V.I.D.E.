@@ -1,6 +1,8 @@
 ## 📁 D.I.V.I.D.E Files:
 
-- [Timeline of Events](/docs/timeline)
-- [Anomaly Reports](/docs/anomaly_reports)
-- [Doro Sightings](/docs/doro_sightings)
-- [Notes from Inside](/docs/notes_from_inside)
+<div>
+  <a href="/docs/timeline">Timeline of Events</a>
+  <a href="/docs/anomaly_reports">Anomaly Reports</a>
+  <a href="/docs/doro_sightings">Doro Sightings</a>
+  <a href="/docs/notes_from_inside">Notes from Inside</a>
+</div>
