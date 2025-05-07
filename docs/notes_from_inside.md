@@ -24,7 +24,7 @@ Description: These anomalies present a threat of destruction on a large scale, e
 
 Example: A reality-warping entity that can erase or alter memories, time, or even existence on a grand scale.
 
-6. Class VI – Omega-Class Threat 🔴
+6. Class VI – Omega-Class Threat 
 Description: Ω-Class anomalies represent the most extreme threats known to the Foundation. These entities are capable of overwhelming large-scale destruction, manipulating fundamental aspects of reality, and causing chaos across dimensions. Their power is limitless, and their abilities exceed the scope of normal classification systems.
 
 Abilities: Ω-Class anomalies are uncontainable, capable of reshaping time, space, and reality itself. Their influence extends far beyond the physical realm, and they are often considered apocalyptic in nature.
@@ -50,7 +50,7 @@ Anomaly Ω-01: A being that can create and destroy entire timelines, altering th
 
 Anomaly Ω-02: A cosmic entity that governs over life and death, whose actions influence every being and reality across multiple dimensions and beyond.
 
-Redacted Anomalies 🗝️
+Redacted Anomalies 
 Description: Entities that are either too dangerous, unknown, or classified as too great a threat to disclose. These anomalies are beyond containment and may fall under Ω-Class, but their exact nature remains sealed by the highest authorities.
 
 Access: Only D.I.V.I.D.E. Level clearance holders have access to information regarding these anomalies.
@@ -86,7 +86,7 @@ Description: For top researchers and operatives with direct anomaly containment 
 
 Examples: High-ranking anomaly researchers and field operatives responsible for extreme containment tasks.
 
-Level 7: Omega-Class Access 🔴
+Level 7: Omega-Class Access 
 Description: Access to the most dangerous or unknown entities, with full operational control. Includes command over the most volatile situations, involving catastrophic anomalies.
 
 Examples: Top-level operatives with global influence over anomaly management and containment.
