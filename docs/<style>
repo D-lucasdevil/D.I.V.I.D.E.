@@ -4,34 +4,19 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>D.I.V.I.D.E. Wiki</title>
-  
-  <style>
-    /* CSS for link styling */
-    a {
-      margin-bottom: 10px; /* Adds space between links */
-      display: block;      /* Makes the links block-level elements (stacked vertically) */
-      text-decoration: none; /* Removes underline */
-      color: #fff; /* Changes text color */
-      padding: 5px 10px; /* Adds padding around the text */
-    }
-
-    /* CSS for hover effect */
-    a:hover {
-      background-color: crimson; /* Changes background color when hovered */
-    }
-  </style>
-  
+  <link rel="stylesheet" href="style.css"> <!-- Link to your external CSS file -->
 </head>
 <body>
-  <h1>📁 D.I.V.I.D.E. Files</h1>
-  
-  <div>
-    <!-- Links to other pages -->
-    <a href="timeline.md">Timeline of Events</a>
-    <a href="anomaly_reports.md">Anomaly Reports</a>
-    <a href="doro_sightings.md">Doro Sightings</a>
-    <a href="notes_from_inside.md">Notes from Inside</a>
-  </div>
+  <div id="content">
+    <h1>D.I.V.I.D.E. Wiki</h1>
+    <h2>Explore the Mysterious Universe</h2>
 
+    <div id="button-container">
+      <a href="timeline.md">Timeline of Events</a>
+      <a href="anomaly_reports.md">Anomaly Reports</a>
+      <a href="doro_sightings.md">Doro Sightings</a>
+      <a href="notes_from_inside.md">Notes from Inside</a>
+    </div>
+  </div>
 </body>
 </html>
