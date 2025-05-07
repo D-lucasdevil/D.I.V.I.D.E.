@@ -16,3 +16,4 @@ Here’s a chronological account of key events in the D.I.V.I.D.E. universe:
 
 More to come as we collect more data...
 [Back to Wiki Home](index.md)
+<a href="/docs/timeline">Timeline of Events</a>
