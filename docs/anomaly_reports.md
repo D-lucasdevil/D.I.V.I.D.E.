@@ -9,7 +9,7 @@ title: "Anomaly Reports"
 Below are the documented anomalies:
 
 - [LD-000 — [REDACTED]](LD-000.md)
-- [LD-001]()
+- [LD-001](LD-001.md)
 - [LD-002]()
 - [LD-003]()
 - [LD-004]()
