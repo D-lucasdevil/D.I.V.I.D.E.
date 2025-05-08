@@ -2,11 +2,11 @@
 
 ## **Background:**
 
-APA-01 was the first human to survive direct exposure to a **Tier-4 anomaly** during a catastrophic **Containment Breach Event** that occurred in Sector X-3. The event, which caused multiple anomalies to break free from their containment, threatened to destabilize the very fabric of the dimension they inhabited. As the breach escalated, all other agents were either incapacitated or failed to neutralize the anomaly in time. However, APA-01 not only survived the encounter but adapted — their physical and cognitive abilities dramatically enhanced by the exposure. This unprecedented survival led to the creation of the **Anomaly Pursuit Agent (APA)** designation.
+APA-01 was the first human to survive direct exposure to a **Tier-4 anomaly** during a catastrophic **Containment Breach Event** that occurred in Sector X-3. The event, which caused multiple anomalies to break free from their containment. As the breach escalated, all other agents were either incapacitated or failed to neutralize the anomaly in time. However, APA-01 not only survived the encounter but adapted — their physical and cognitive abilities dramatically enhanced by the exposure. This unprecedented survival led to the creation of the **Anomaly Pursuit Agent (APA)** designation.
 
 APA-01’s new abilities were the result of a combination of heightened resilience, adaptive biology, and an instinctive connection to the anomalies they once hunted. This made them the perfect candidate to represent **D.I.V.I.D.E.**’s most elite operatives: the **Adaptive Protocol Apex** agents. APA agents are deployed when anomalies are beyond the scope of regular containment, requiring someone capable of confronting the most dangerous threats head-on. 
 
-The term **Adaptive Protocol Apex** refers to their exceptional capacity to improvise, adapt, and execute complex strategies under the most extreme conditions. When all else fails, the APA is sent in as the last line of defense. These agents are trained to survive, neutralize, and prevent catastrophic events caused by anomalies, especially those that pose a risk to local dimensions or realities.
+The term **Adaptive Protocol Apex** refers to their exceptional capacity to improvise, adapt, and execute complex strategies under the most extreme conditions. When all else fails, the APA is sent in as the last line of defense. These agents are trained to survive, neutralize, and prevent catastrophic events caused by anomalies.
 
 ---
 
@@ -44,7 +44,7 @@ Though they rarely show emotion, APA-01 does have a deep sense of duty and a str
 
 ## **The Incident:**
 
-The **Containment Breach Event** in Sector X-3 remains the most significant turning point in APA-01’s career. During this event, a Tier-4 anomaly — a creature from another dimension with the power to tear apart the very fabric of space-time — escaped its containment. The anomaly, referred to as the **X-3 Entity**, was not only hostile but capable of creating localized breaches that caused havoc across several dimensions.
+The **Containment Breach Event** in Sector X-3 remains the most significant turning point in APA-01’s career. During this event, a Tier-4 anomaly — a creature from another dimension — escaped its containment. The anomaly, referred to as the **X-3 Entity**, was not only hostile but capable of creating localized breaches.
 
 APA-01 was sent in as a last resort, with orders to contain or neutralize the threat. What followed was an unprecedented battle. Most of the agents sent before APA-01 perished or failed to contain the breach, but APA-01 managed to survive long enough to learn from the entity, adapting their abilities to the threat. They discovered a way to exploit the creature’s weaknesses, using its own abilities against it to contain the breach and neutralize the entity.
 
