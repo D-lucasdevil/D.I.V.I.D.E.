@@ -57,8 +57,8 @@
 
     <!-- Class Navigation Buttons -->
     <a href="#researchers" class="class-button"> Researchers</a>
-    <a href="#guards" class="class-button">🛡 Guards</a>
-    <a href="#taskforce" class="class-button">⚔ Task Force</a>
+    <a href="#guards" class="class-button"> Guards</a>
+    <a href="#taskforce" class="class-button"> Task Force</a>
     <a href="#special" class="class-button"> Special Individuals</a>
     <a href="#atclass" class="class-button"> AT-Class (Absolute Trash)</a>
 
