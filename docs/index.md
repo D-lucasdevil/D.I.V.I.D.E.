@@ -44,6 +44,11 @@
     <a href="doro_sightings.html">Doro Sightings</a>
     <a href="notes_from_inside.html">Notes from Inside</a>
   </div>
+
+
+
+
+
   
   <!-- Copyright notice at the bottom -->
   <p style="font-size: 12px; text-align: center; color: gray;">
