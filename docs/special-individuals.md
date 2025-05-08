@@ -8,5 +8,6 @@
 
     <!-- Profiles -->
     <p>[Dr. Connor — Special Individual Profile](connor.md)</p>
+    - [A.P.A. — Anomaly Pursuit Agent Profile](apa.md)
     <!-- Add more individuals as needed -->
 </section>
