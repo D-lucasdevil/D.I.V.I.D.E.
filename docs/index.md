@@ -44,6 +44,11 @@
     <a href="doro_sightings.html">Doro Sightings</a>
     <a href="notes_from_inside.html">Notes from Inside</a>
   </div>
-
+  
+  <!-- Copyright notice at the bottom -->
+  <p style="font-size: 12px; text-align: center; color: gray;">
+    &copy; 2025 [Your Name or Channel Name]. All rights reserved. Content is protected under [Your License Type] license. No unauthorized use or commercial distribution allowed without permission.
+  </p>
+  
 </body>
 </html>
