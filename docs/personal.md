@@ -53,7 +53,7 @@
 </head>
 <body>
   <div class="container">
-    <h1> D.I.V.I.D.E. Personnel</h1>
+    <h1>  D.I.V.I.D.E. Personnel</h1>
 
     <!-- Class Navigation Buttons -->
     <a href="#researchers" class="class-button"> Researchers</a>
