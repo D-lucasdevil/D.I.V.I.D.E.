@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -21,20 +20,29 @@
     a:hover {
       background-color: crimson; /* Set background color to crimson when hovered */
     }
+
+    /* Style for the image */
+    img {
+      max-width: 100%;          /* Make sure the image is responsive */
+      height: auto;             /* Maintain aspect ratio */
+      border-radius: 8px;       /* Add some rounded corners to the image */
+      margin-bottom: 20px;      /* Add space below the image */
+    }
   </style>
 
 </head>
 <body>
   <h1>📁 D.I.V.I.D.E. Files</h1>
 
+  <!-- Image from Twitter or your custom image -->
+  <img src="https://pbs.twimg.com/media/Gqb7EnFXkAATO-R?format=jpg&name=medium" />
 
-  
   <!-- Links to different pages -->
   <div>
-<a href="timeline.html">Timeline of Events</a>
-<a href="anomaly_reports.html">Anomaly Reports</a>
-<a href="doro_sightings.html">Doro Sightings</a>
-<a href="notes_from_inside.html">Notes from Inside</a>
+    <a href="timeline.html">Timeline of Events</a>
+    <a href="anomaly_reports.html">Anomaly Reports</a>
+    <a href="doro_sightings.html">Doro Sightings</a>
+    <a href="notes_from_inside.html">Notes from Inside</a>
   </div>
 
 </body>
