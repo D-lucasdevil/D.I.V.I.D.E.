@@ -58,7 +58,7 @@
     <!-- Links to other pages -->
     <a href="researchers.md" class="class-button">Researchers</a>
     <a href="guards.md" class="class-button">Guards</a>
-    <a href="task-force.md" class="class-button">Task Force</a>
+    <a href="task-force-list.md" class="class-button">Task Force</a>
     <a href="special-individuals.md" class="class-button">Special Individuals</a>
     <a href="at-class.md" class="class-button">AT-Class (Absolute Trash)</a>
 
