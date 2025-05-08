@@ -47,7 +47,7 @@
   
   <!-- Copyright notice at the bottom -->
   <p style="font-size: 12px; text-align: center; color: gray;">
-    &copy; 2025 [Your Name or Channel Name]. All rights reserved. Content is protected under [Your License Type] license. No unauthorized use or commercial distribution allowed without permission.
+    &copy; 2025 [Lucas Devil]. All rights reserved. Content is protected under [Creative Commons Attribution-NonCommercial 4.0 International License] license. No unauthorized use or commercial distribution allowed without permission.
   </p>
   
 </body>
