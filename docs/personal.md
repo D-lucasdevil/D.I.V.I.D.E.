@@ -56,12 +56,13 @@
     <h1>  D.I.V.I.D.E. Personnel</h1>
 
     <!-- Links to other pages -->
+    
 - [Researchers](researchers.md)
 - [Guards](guards.md)
 - [Task Force](task-force-list.md)
 - [Special Individuals](special-individuals.md)
 - [AT-Class (Absolute Trash)](at-class.md)
-- 
+  
     <!-- Back to the main page -->
     <a href="index.md" class="back-link">← Return to Main Files</a>
   </div>
