@@ -1,7 +1,12 @@
+<!-- Special Individuals Section -->
+<section id="special-individuals">
+    <h2>Special Individuals</h2>
+    
+    <div class="level-4-restriction">
+        <p>Only level 4 access allowed to view this site</p>
+    </div>
 
-**Special Individuals**
-
-Only level 4 access allowed to view this site
-
-
-- [Dr. Connor — Special Individual Profile](connor.md)
+    <!-- Profiles -->
+    <p>[Dr. Connor — Special Individual Profile](connor.md)</p>
+    <!-- Add more individuals as needed -->
+</section>
