@@ -7,7 +7,7 @@
 ---
 
 **What it Represents**:  
-- **Anomaly Pursuit Agent**: A high-ranking field operative within D.I.V.I.D.E., deployed when anomalies need to be tracked, engaged, or neutralized before they destabilize local dimensions.
+- **Anomaly Pursuit Agent**: A high-ranking field operative within D.I.V.I.D.E., deployed when anomalies need to be tracked, engaged, or neutralized .
 - **Adaptive Protocol Apex**: Refers to the soldier’s elite ability to improvise, adapt, and execute extreme protocols on the fly — making them the last resort when everything else fails.
 
 ---
