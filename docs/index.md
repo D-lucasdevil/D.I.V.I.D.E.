@@ -26,6 +26,8 @@
 </head>
 <body>
   <h1>📁 D.I.V.I.D.E. Files</h1>
+
+  ![main logo](https://pbs.twimg.com/media/Gqb7EnFXkAATO-R?format=jpg&name=medium)
   
   <!-- Links to different pages -->
   <div>
