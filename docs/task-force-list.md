@@ -1,9 +1,6 @@
 ---
-layout: default
 title: "Task Force Profiles"
 ---
-
-# Task Force Profiles
 
 Below are the profiles for various task forces:
 
@@ -11,5 +8,3 @@ Below are the profiles for various task forces:
 - [ECHO-9 — Echo Unit-9](echo9.md)
 - [BESERK — Tactical Assault](viking.md)
 - [PHANTOM — Stealth Operations](phantom.md)
-
----
