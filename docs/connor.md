@@ -1,19 +1,25 @@
----
-layout: default
-title: "Dr. Connor – Special Individual"
----
+# Researcher Profile: Dr. Connor
 
-# Dr. Connor - Special Individual Profile
+**Clearance Level:** D.I.V.I.D.E.  
+**Assigned Division:** LD-Anomaly Containment  
+**Status:** [REDACTED]  
 
-Dr. Connor's work with D.I.V.I.D.E. has been pivotal. Not only does he handle high-tier anomaly research, but his involvement with Task Force A.P.A. has been a crucial part of his development as an operative.
+## Background:
+Dr. Connor was once a theoretical physicist focused on multidimensional decay and entropy tethering. In 2010, he was recruited into D.I.V.I.D.E. after independently detecting “noise” from the first recorded anomaly (LD-001) — two years before the organization's formation.
 
-## Notable Collaborations
+His warnings were dismissed as schizophrenic delusions by every institution he approached… until LD-001 manifested in public space, and D.I.V.I.D.E. made contact.
 
-Dr. Connor's most notable collaboration has been with the Anomaly Pursuit Agent (A.P.A.). In fact, he was directly involved in the first mission that required A.P.A. to neutralize a Tier-4 anomaly.
+## Role Within D.I.V.I.D.E.:
+After developing the VALEN Protocol — a dimensional triangulation method capable of locating temporal fractures used by anomalies — Connor was granted full D.I.V.I.D.E. clearance. He remains one of the few operatives trusted to interact directly with high-tier LDs.
 
-- [A.P.A. – Anomaly Pursuit Agent Profile](task-forces/apa.md)
+## Notable Files:
+- **R-Ω-VALEN-T01** — Research notes theorizing D as a corrupted, yandere-coded entity, emotionally tethered to LD-001
 
-### Quote:
-> "I don’t want to understand it. I want to bury it so deep reality forgets it existed."
+## Personality & Controversy:
+Feared and respected across the organization, Connor’s intense fixation on LD entities — especially [REDACTED] — sparked internal concerns about compromised loyalty. That fear was extinguished during an unsanctioned test when, without hesitation, Connor issued the command to terminate the entity.
 
----
+The attempt failed.
+
+But the message was clear:
+
+*“I don’t want to understand it. I want to bury it so deep reality forgets it existed.”*
