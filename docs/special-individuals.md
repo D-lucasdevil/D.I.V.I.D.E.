@@ -7,7 +7,7 @@
     </div>
 
     <!-- Profiles -->
-    <p><a href="connor.md" target="_blank">Dr. Connor — Special Individual Profile</a></p>
-    <p><a href="apa-01.md" target="_blank">APA-01 — The First Adaptive Protocol Apex</a></p>
+    <p><a href="connor.html">Dr. Connor — Special Individual Profile</a></p>
+    <p><a href="apa-01.html">APA-01 — The First Adaptive Protocol Apex</a></p>
     <!-- Add more individuals as needed -->
 </section>
