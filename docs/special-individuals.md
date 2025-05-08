@@ -8,6 +8,6 @@
 
     <!-- Profiles -->
     <p>[Dr. Connor — Special Individual Profile](connor.md)</p>
-    - [A.P.A. — Anomaly Pursuit Agent Profile](apa.md)
+   - [APA-01 — The First Adaptive Protocol Apex](apa-01.md)
     <!-- Add more individuals as needed -->
 </section>
