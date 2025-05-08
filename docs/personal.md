@@ -56,12 +56,12 @@
     <h1>  D.I.V.I.D.E. Personnel</h1>
 
     <!-- Links to other pages -->
-    <a href="researchers.md" class="class-button">Researchers</a>
-    <a href="guards.md" class="class-button">Guards</a>
-    <a href="task-force-list.md" class="class-button">Task Force</a>
-    <a href="special-individuals.md" class="class-button">Special Individuals</a>
-    <a href="at-class.md" class="class-button">AT-Class (Absolute Trash)</a>
-
+- [Researchers](researchers.md)
+- [Guards](guards.md)
+- [Task Force](task-force-list.md)
+- [Special Individuals](special-individuals.md)
+- [AT-Class (Absolute Trash)](at-class.md)
+- 
     <!-- Back to the main page -->
     <a href="index.md" class="back-link">← Return to Main Files</a>
   </div>
