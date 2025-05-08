@@ -52,7 +52,9 @@
   
   <!-- Copyright notice at the bottom -->
   <p style="font-size: 12px; text-align: center; color: gray;">
-    &copy; 2025 [Lucas Devil]. All rights reserved. Content is protected under [Creative Commons Attribution-NonCommercial 4.0 International License] license. No unauthorized use or commercial distribution allowed without permission.
+    &copy; © 2025 [Lucas Devil]. All rights reserved.<br>
+  D.I.V.I.D.E. and all associated lore, characters, and assets are protected under copyright law.<br>
+  Fan art, memes, and tribute content are welcome — just don’t sell anything without permission.
   </p>
   
 </body>
