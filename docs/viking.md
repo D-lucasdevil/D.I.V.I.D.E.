@@ -19,13 +19,13 @@ Recon
 Killteam
 
 Notable Features:
-🔥 **Genetic Rage Protocols**
+ **Genetic Rage Protocols**
 Each operative is equipped with “Rage Core” bioware — a controlled berserker-state activator that boosts strength, pain suppression, aggression, and speed. Rage Mode turns operatives into walking anomalies, while still maintaining unit-level coordination.
 
-🧠 **Neural Combat Synchronization**
+ **Neural Combat Synchronization**
 Operatives are linked via tactical neural-net implants, sharing sensory and combat data in real-time. They move and react like a hive mind — overwhelming threats with impossible speed and precision.
 
-🦾 **Shockframe Armor**
+ **Shockframe Armor**
 Advanced exo-frames capable of tanking concussive, kinetic, and anomalous force. Armor systems include:
 - Kinetic Boosters
 - Cognitohazard Filters
@@ -34,7 +34,7 @@ Advanced exo-frames capable of tanking concussive, kinetic, and anomalous force.
 
 Built to breach walls, realms, and logic.
 
-💥 **Overkill Loadouts**
+ **Overkill Loadouts**
 B.E.R.S.E.R.K. has Tier-0 weapon clearance. Their arsenal includes:
 - Micro-fusion cannons
 - Dimensional warhammers
