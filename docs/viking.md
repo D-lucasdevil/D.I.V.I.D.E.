@@ -47,7 +47,7 @@ Tier-0 clearance loadouts. Every operative is armed to terminate existence, not 
 - Megaton plasma slugs  
 Ammunition is measured in kilotons. Precision is optional.
 
-🧬 **Psychological Conditioning**  
+ **Psychological Conditioning**  
 B.E.R.S.E.R.K. units are emotionally dulled, but not mindless. Hesitation is purged through intense neural-loop indoctrination. Loyalty is to the mission alone — not survival, not ethics, not restraint.
 
 ---
