@@ -34,7 +34,7 @@
 <body>
   <h1>📁 D.I.V.I.D.E. Files</h1>
 
-  Directive for Interdimensional Vigilance, Intervention, Destruction, and Erasure
+  Department for Internal Vigilance, Intervention, Destruction, and Erasure
   
 
   <!-- Image from Twitter or your custom image -->
