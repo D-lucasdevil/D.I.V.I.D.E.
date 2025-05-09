@@ -1,7 +1,7 @@
 ### Phantom Division — "Containment First"
 
 **Designation:** Strategic Anomaly Suppression & Containment Unit  
-**Clearance:** Level 3+  
+**Clearance:** Level 4+  
 **Nickname:** “The Net” / “Glass Box Crew” / “The Calm Hand”
 
 ---
