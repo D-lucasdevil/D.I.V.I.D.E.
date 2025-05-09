@@ -25,7 +25,10 @@ Description: These anomalies present a threat of destruction on a large scale, e
 Example: A reality-warping entity that can erase or alter memories, time, or even existence on a grand scale.
 
 6. Class VI – Omega-Class Threat 
-Description: Ω-Class anomalies represent the most extreme threats known to the Foundation. These entities are capable of overwhelming large-scale destruction, manipulating fundamental aspects of reality, and causing chaos across dimensions. Their power is limitless, and their abilities exceed the scope of normal classification systems.
+Description:  anomalies represent the most extreme threats known to the Foundation. These entities are capable of overwhelming large-scale destruction, manipulating fundamental aspects of reality, and causing chaos across dimensions. Their power is limitless, and their abilities exceed the scope of normal classification systems.
+
+7. Class Ω - The end
+Description: There is nothing you can do. We are all dead.
 
 Abilities: Ω-Class anomalies are uncontainable, capable of reshaping time, space, and reality itself. Their influence extends far beyond the physical realm, and they are often considered apocalyptic in nature.
 
