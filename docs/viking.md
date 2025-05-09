@@ -37,7 +37,7 @@ Custom-built exo-frames resistant to kinetic, concussive, and anomalous forces. 
 - Cognitohazard Filters  
 - Spatial Stabilizers  
 - Adrenal Override Modules  
-Designed to punch through walls, realities, and logic.
+Designed to punch through walls and anomalies.
 
  **Overkill Arsenal**  
 Tier-0 clearance loadouts. Every operative is armed to terminate existence, not preserve it. Includes:  
