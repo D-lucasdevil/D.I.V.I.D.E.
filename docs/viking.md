@@ -18,7 +18,7 @@ They are meant to destroy.
 
 #### Duties  
 - Elimination of Tier-3+ anomalies in zones marked as expendable  
-- Rapid-response to failed APA deployments or blacksite breaches  
+- Rapid-response to blacksite breaches  
 - Anomaly suppression in dimensional rupture or collapse scenarios  
 - Post-containment protocol: total environmental sterilization
 
