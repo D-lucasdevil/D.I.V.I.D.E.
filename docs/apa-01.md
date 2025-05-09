@@ -1,57 +1,78 @@
 # APA-01 — The First Adaptive Protocol Apex
 
-## **Background:**
+---
 
-APA-01 was the first human to survive direct exposure to a **Tier-4 anomaly** during a catastrophic **Containment Breach Event** that occurred in Sector X-3. The event, which caused multiple anomalies to break free from their containment. As the breach escalated, all other agents were either incapacitated or failed to neutralize the anomaly in time. However, APA-01 not only survived the encounter but adapted — their physical and cognitive abilities dramatically enhanced by the exposure. This unprecedented survival led to the creation of the **Anomaly Pursuit Agent (APA)** designation.
+## Background
 
-APA-01’s new abilities were the result of a combination of heightened resilience, adaptive biology, and an instinctive connection to the anomalies they once hunted. This made them the perfect candidate to represent **D.I.V.I.D.E.**’s most elite operatives: the **Adaptive Protocol Apex** agents. APA agents are deployed when anomalies are beyond the scope of regular containment, requiring someone capable of confronting the most dangerous threats head-on. 
+APA-01 was the first human to survive direct exposure to a **Tier-4 anomaly** during the catastrophic **Containment Breach Event** in **Sector X-3** — an incident that saw multiple high-risk entities escape containment in rapid succession. As the facility descended into chaos, every agent was either neutralized or overwhelmed. All but one.
 
-The term **Adaptive Protocol Apex** refers to their exceptional capacity to improvise, adapt, and execute complex strategies under the most extreme conditions. When all else fails, the APA is sent in as the last line of defense. These agents are trained to survive, neutralize, and prevent catastrophic events caused by anomalies.
+APA-01 didn’t just survive the encounter — they *adapted*. Their body and mind evolved in real time, acquiring traits far beyond human limits. This unprecedented transformation gave birth to a new designation: **APA — Adaptive Protocol Apex**.
+
+APA-01 became the prototype for a new breed of D.I.V.I.D.E. operatives — elite assets deployed when standard containment is no longer an option. Trained to outlast and eliminate the uncontainable, APA agents are the organization's final line of defense.
 
 ---
 
-## **Abilities and Attributes:**
+## Abilities & Attributes
 
-- **Adaptive Biology**: APA-01’s body is highly resistant to physical and environmental damage. Exposure to anomalies has enhanced their regenerative abilities, allowing them to recover from injuries at an accelerated rate. Their physiology is constantly adapting to new threats, making them an ideal candidate for anomaly containment.
-  
-- **Enhanced Reflexes and Combat Instincts**: APA-01 possesses reflexes far beyond the average human, with their combat strategies fine-tuned through years of experience with anomalies. Their ability to read and predict an opponent’s next move in combat gives them an edge in most situations.
+**Adaptive Biology**  
+APA-01’s physiology responds dynamically to external threats. They can recover from lethal trauma in minutes and evolve resistance to previously unknown hazards — physical, chemical, or anomalous.
 
-- **Dimensional Sensitivity**: APA-01 has an innate ability to detect anomalies before they manifest fully in the world. This heightened sense allows them to track and sense dimensional instability, making them invaluable in preemptively identifying dangerous anomalies. This ability allows them to respond before an anomaly can cause irreversible damage.
+**Enhanced Reflexes & Combat Instinct**  
+APA-01’s reaction time is far beyond human norms. Exposure to anomalies has sharpened their battlefield awareness, allowing them to predict hostile behavior and respond with surgical precision.
 
-- **Protocol Mastery**: APA-01 is a master of extreme protocols, able to improvise and execute complex strategies on the fly. Whether it’s neutralizing an anomaly, rescuing civilians, or managing a dangerous containment breach, they are the go-to agent for operations requiring high-stakes solutions.
+**Dimensional Sensitivity**  
+APA-01 can detect spatial anomalies before they fully manifest — sensing dimensional fractures, cognitive distortions, or reality shifts. This makes them invaluable for intercepting threats *before* containment fails.
 
-- **Anomaly Resistance**: Their exposure to Tier-4 anomalies has granted them resistance to the overwhelming psychological effects these entities typically cause. APA-01 can remain calm and focused even in the face of horrors that would break the resolve of most other agents.
+**Protocol Mastery**  
+APA-01 is trained in dynamic mission logic — improvising complex containment strategies in collapsing environments with zero hesitation. Their adaptability in high-stakes situations is unmatched.
 
----
-
-## **Personality:**
-
-APA-01’s experiences in the field have made them a stoic, methodical, and disciplined individual. They are quiet and reserved, with a sharp focus on their mission. Their adaptability in combat is matched by their tactical mind, able to stay several steps ahead in dangerous situations. Despite their enhanced abilities, APA-01 doesn’t see themselves as a hero but as a necessary tool to prevent greater chaos. They view every mission as a calculated operation, with the goal of neutralizing the threat at hand — no matter the cost.
-
-Though they rarely show emotion, APA-01 does have a deep sense of duty and a strong desire to protect others. This, however, is often overshadowed by their single-minded approach to the mission. They are capable of forming bonds with those they trust, though these relationships are few and far between due to the nature of their work.
+**Anomaly Resistance**  
+Tier-4 anomalies often induce madness or psychic degradation. APA-01’s exposure has rendered them immune to most cognitohazards, allowing them to function in conditions that destroy ordinary minds.
 
 ---
 
-## **Special Equipment:**
+## Personality
 
-- **Quantum Blade**: A high-frequency sword made from a rare alloy capable of cutting through the majority of anomalies, including some that are resistant to conventional weapons. This blade is designed for close-quarters combat and is an essential part of APA-01’s arsenal.
+APA-01 operates with cold efficiency. Quiet, controlled, and relentlessly focused, they are more like a living protocol than a person. Emotion rarely surfaces — only purpose.
 
-- **Survival Armor**: Adaptive body armor that adjusts to different environmental conditions and protects against a wide range of attacks, from physical to anomalous. The armor is integrated with the latest anomaly-resistant technologies and is capable of repairing itself in the field, ensuring that APA-01 remains operational under the most hostile conditions.
+Despite this, APA-01 holds an unspoken commitment to protect. Those who’ve served alongside them describe a presence that anchors chaos — someone who doesn’t break under pressure, no matter how dire.
 
-- **Dimensional Distress Beacon**: A small, handheld device capable of emitting a distress signal if APA-01 is overwhelmed or requires backup. It can be used to notify D.I.V.I.D.E. headquarters or other agents about anomalies or breaches that exceed their current operational capabilities.
-
----
-
-## **The Incident:**
-
-The **Containment Breach Event** in Sector X-3 remains the most significant turning point in APA-01’s career. During this event, a Tier-4 anomaly — a creature from another dimension — escaped its containment. The anomaly, referred to as the **X-3 Entity**, was not only hostile but capable of creating localized breaches.
-
-APA-01 was sent in as a last resort, with orders to contain or neutralize the threat. What followed was an unprecedented battle. Most of the agents sent before APA-01 perished or failed to contain the breach, but APA-01 managed to survive long enough to learn from the entity, adapting their abilities to the threat. They discovered a way to exploit the creature’s weaknesses, using its own abilities against it to contain the breach and neutralize the entity.
-
-The event left APA-01 physically and mentally changed, their body forever altered by the exposure to such a powerful anomaly. They were quickly promoted to the rank of **Adaptive Protocol Apex**, and the **APA** designation became synonymous with both hope and fear within D.I.V.I.D.E.
+They do not consider themselves a hero. They consider themselves *necessary*.
 
 ---
 
-## **Quote:**
+## Special Equipment
 
-“We don’t send APA to clean up the mess. We send them to end it.”
+**Quantum Blade**  
+A harmonic-frequency blade forged from exotic alloys. It cuts through both physical and anomalous matter, and it’s attuned to APA-01’s unique energy signature — capable of disrupting transdimensional entities.
+
+**Survival Armor**  
+An adaptive suit that shifts to meet environmental and anomalous threats. It self-repairs in the field, counters reality-warping effects, and protects against both kinetic and psychic attacks.
+
+**Dimensional Distress Beacon**  
+A last-resort device capable of transmitting across multiple planes of existence. When activated, it alerts D.I.V.I.D.E. command that containment has failed — and the situation is beyond salvaging.
+
+---
+
+## The Incident — Sector X-3
+
+The **Sector X-3 Containment Breach** was D.I.V.I.D.E.’s darkest hour. The primary threat — codenamed the **X-3 Entity** — was a Tier-4 apex predator capable of corrupting matter and opening micro-breaches into hostile dimensions.
+
+Every agent dispatched before APA-01 perished — or lost their minds.
+
+APA-01 was sent in as a last resort. For over three hours, they battled the X-3 Entity inside zones of collapsing reality. As the fight progressed, they began adapting — mimicking the anomaly’s breach logic, resisting its psychic rot, and evolving mid-combat.
+
+They didn’t just neutralize the entity. They *turned its own power against it*.
+
+APA-01 emerged permanently changed — no longer fully human, but something evolved. Something engineered for the inhuman.
+
+They became the first operative to eliminate a Tier-4 anomaly — a feat now spoken of in hushed reverence across D.I.V.I.D.E. command, containment squads, and even rival agencies.
+
+To some, APA-01 is a weapon.  
+To others, a warning.
+
+---
+
+## Quote
+
+**“We don’t send APA to clean up the mess. We send them to end it.”**
