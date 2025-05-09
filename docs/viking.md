@@ -66,7 +66,7 @@ B.E.R.S.E.R.K. clears cities. APA clears continents.
 ---
 
 #### Code Black Record: Operation Hellmouth  
-A Class-Ω interdimensional rupture occurred at Containment Site ██. Entity [REDACTED] emerged, collapsing space-time layers across 3 sectors. APA-01 was engaged off-site and unavailable.
+A Class-5 interdimensional rupture occurred at Containment Site ██. Entity [REDACTED] emerged across 3 sectors. APA-01 was engaged off-site and unavailable.
 
 B.E.R.S.E.R.K. was dropped into the epicenter via orbital shockpods.
 
