@@ -56,17 +56,19 @@ A last-resort device capable of transmitting across multiple planes of existence
 
 ## The Incident — Sector X-3
 
-The **Sector X-3 Containment Breach** was D.I.V.I.D.E.’s darkest hour. The primary threat — codenamed the **X-3 Entity** — was a Tier-4 apex predator capable of corrupting matter and opening micro-breaches into hostile dimensions.
+The **Sector X-3 Containment Breach** was D.I.V.I.D.E.’s darkest hour. The primary threat — codenamed the **X-3 Entity** — was a Tier-4 apex predator.
 
 Every agent dispatched before APA-01 perished — or lost their minds.
 
-APA-01 was sent in as a last resort. For over three hours, they battled the X-3 Entity inside zones of collapsing reality. As the fight progressed, they began adapting — mimicking the anomaly’s breach logic, resisting its psychic rot, and evolving mid-combat.
+APA-01 was sent in as a last resort. For over three hours, they battled the X-3 Entity inside zones. As the fight progressed, they began adapting — mimicking the anomaly’s breach logic, resisting its psychic rot, and evolving mid-combat.
 
 They didn’t just neutralize the entity. They *turned its own power against it*.
 
 APA-01 emerged permanently changed — no longer fully human, but something evolved. Something engineered for the inhuman.
 
-They became the first operative to eliminate a Tier-4 anomaly — a feat now spoken of in hushed reverence across D.I.V.I.D.E. command, containment squads, and even rival agencies.
+They became the first operative to eliminate a Tier-4 anomaly — a feat now spoken of in hushed reverence across D.I.V.I.D.E. command, containment squads.
+
+APA-01 is the leader of A.P.A squad.
 
 To some, APA-01 is a weapon.  
 To others, a warning.
