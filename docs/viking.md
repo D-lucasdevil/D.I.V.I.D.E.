@@ -78,7 +78,7 @@ Sound logs captured only static, screams, and one sentence:
 24 hours later, recon teams found:  
 - Entity: obliterated  
 - Facility: half-vaporized  
-- Operatives: recovered alive… and smiling and laughing.
+- Operatives: recovered alive… smiling and laughing.
 - That day 6 berserker operatives died rest alive.
 
 ---
