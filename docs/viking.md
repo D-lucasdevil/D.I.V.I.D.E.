@@ -44,7 +44,8 @@ Tier-0 clearance loadouts. Every operative is armed to terminate existence, not 
 - Micro-fusion cannons  
 - Dimensional warhammers  
 - Anomaly disruptors  
-- Megaton plasma slugs  
+- Megaton plasma slugs
+- Death's dream (when a beserker member dies they will be shown the most beautifull dream they would wish to see as they die)
 Ammunition is measured in kilotons. Precision is optional.
 
  **Psychological Conditioning**  
@@ -79,7 +80,7 @@ Sound logs captured only static, screams, and one sentence:
 - Entity: obliterated  
 - Facility: half-vaporized  
 - Operatives: recovered alive… smiling and laughing.
-- That day 6 berserker operatives died rest alive.
+- That day 6 berserker operatives died 4 found alive.
 
 ---
 
