@@ -51,6 +51,10 @@ Ammunition is measured in kilotons. Precision is optional.
  **Psychological Conditioning**  
 B.E.R.S.E.R.K. units are emotionally dulled, but not mindless. Hesitation is purged through intense neural-loop indoctrination. Loyalty is to the mission alone — not survival, not ethics, not restraint.
 
+
+**Psychological Depth**:
+As the Berserker Squad continues their missions, the shadow of loss hangs over them. But there is a comfort in knowing that if they fall, they too will be greeted by 'Death's Dream.' It gives them the strength to charge into battle with resolve, for death is no longer something to fear, but a beautiful, final reward.
+
 ---
 
 #### Deployment Criteria  
