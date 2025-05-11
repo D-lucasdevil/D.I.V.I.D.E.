@@ -56,9 +56,10 @@
   
   <!-- Copyright notice at the bottom -->
   <p style="font-size: 12px; text-align: center; color: gray;">
-    &copy; © 2025 [Lucas Devil]. All rights reserved.<br>
-  D.I.V.I.D.E. and all associated lore, characters, and assets are protected under copyright law.<br>
-  Fan art, memes, and tribute content are welcome — just don’t sell anything without permission.
+    &copy; © 2025 Lucas Devil. All rights reserved.
+This content, including but not limited to the name D.I.V.I.D.E., logo, lore, characters, and visual design, is the intellectual property of Lucas Devil.
+Unauthorized use, reproduction, redistribution, or imitation of any kind is strictly prohibited.
+D.I.V.I.D.E.™ is a claimed trademark. Legal action will be taken against infringement.
   </p>
   
 </body>
