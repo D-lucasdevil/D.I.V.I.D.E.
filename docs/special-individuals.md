@@ -11,3 +11,17 @@
     <p><a href="apa-01.html">APA-01 — The First Adaptive Protocol Apex</a></p>
     <!-- Add more individuals as needed -->
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+© 2025 Lucas Devil. All Rights Reserved.
+D.I.V.I.D.E.™ and all related characters, storylines, and assets are original creations of Lucas Devil.
