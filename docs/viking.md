@@ -100,3 +100,14 @@ Sound logs captured only static, screams, and one sentence:
 > “We don’t knock. We detonate. And obliterate.”  
 > “Containment failed? We’ll erase the coordinates.”  
 > “APA is the scalpel. We are the warhammer.”
+
+
+
+
+
+
+
+
+
+© 2025 Lucas Devil. All Rights Reserved.
+D.I.V.I.D.E.™ and all related characters, storylines, and assets are original creations of Lucas Devil.
