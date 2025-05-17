@@ -33,6 +33,18 @@ If APA is the scalpel and B.E.R.S.E.R.K. is the warhammer — Phantom is the net
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+© 2025 Lucas Devil. All Rights Reserved.
+D.I.V.I.D.E.™ and all related characters, storylines, and assets are original creations of Lucas Devil.
 #### Strengths  
 - Rapid, non-lethal neutralization methods  
 - High adaptability to emerging threat types  
