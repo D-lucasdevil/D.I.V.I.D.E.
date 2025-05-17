@@ -111,3 +111,12 @@ Class VI: The highest known classification for a contained anomaly, where the en
 Ω-Class (Beyond Class VI): The ultimate class. These anomalies exceed the scope of anything classified by the Foundation, existing beyond all known physical or metaphysical constraints. They are capable of manipulating and controlling life, death, and reality itself. Only a select few would ever encounter an Ω-Class entity, and even then, their true nature would be beyond anything the Foundation could prepare for.
 
 Redacted: Information suppressed for safety and secrecy. These anomalies may transcend our current understanding or be far too dangerous to even be classified.
+
+
+
+
+
+
+
+© 2025 Lucas Devil. All Rights Reserved.
+D.I.V.I.D.E.™ and all related characters, storylines, and assets are original creations of Lucas Devil.
