@@ -30,3 +30,8 @@ Below are the documented anomalies:
 
 ---
 
+
+
+
+© 2025 Lucas Devil. All Rights Reserved.
+D.I.V.I.D.E.™ and all related characters, storylines, and assets are original creations of Lucas Devil.
