@@ -29,3 +29,13 @@ AT-Class refers to human subjects forcibly drafted into D.I.V.I.D.E.’s interna
 > "They’re already dead — we’re just putting it to use."  
 > "If they scream, it means the anomaly works."  
 > "Cheaper than drones, and twice as dumb."
+
+
+
+
+
+
+
+
+© 2025 Lucas Devil. All Rights Reserved.
+D.I.V.I.D.E.™ and all related characters, storylines, and assets are original creations of Lucas Devil.
