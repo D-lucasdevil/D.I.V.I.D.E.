@@ -33,18 +33,6 @@ If APA is the scalpel and B.E.R.S.E.R.K. is the warhammer — Phantom is the net
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-© 2025 Lucas Devil. All Rights Reserved.
-D.I.V.I.D.E.™ and all related characters, storylines, and assets are original creations of Lucas Devil.
 #### Strengths  
 - Rapid, non-lethal neutralization methods  
 - High adaptability to emerging threat types  
@@ -65,3 +53,12 @@ D.I.V.I.D.E.™ and all related characters, storylines, and assets are original 
 > “You destroy what you don’t understand. We don’t have that luxury.”  
 > “We don’t run toward the anomaly. We wrap it.”  
 > “When the world can’t afford another crater… they call us.”
+
+
+
+
+
+
+
+© 2025 Lucas Devil. All Rights Reserved.
+D.I.V.I.D.E.™ and all related characters, storylines, and assets are original creations of Lucas Devil.
