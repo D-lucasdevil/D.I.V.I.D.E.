@@ -17,3 +17,16 @@ A surge in the appearance of anomalies spread across the solar system, with repo
 More to come as we collect more data...
 [Back to Wiki Home](index.md)
 - [Timeline of Events](/docs/timeline.md)
+
+
+
+
+
+
+
+
+
+
+
+© 2025 Lucas Devil. All Rights Reserved.
+D.I.V.I.D.E.™ and all related characters, storylines, and assets are original creations of Lucas Devil.
