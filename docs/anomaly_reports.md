@@ -19,7 +19,7 @@ Below are the documented anomalies:
 - [LD-008](LD-008.md)
 - [LD-009](LD-009.md)
 - [LD-010](LD-010.md)
-- [LD-011]()
+- [LD-011](LD-011.md)
 - [LD-012]()
 - [LD-013]()
 - [LD-014]()
