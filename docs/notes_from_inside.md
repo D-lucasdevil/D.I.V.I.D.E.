@@ -2,7 +2,7 @@ Anomaly Classification System:
 1. Class I – Low Threat
 Description: Minimal risk, typically stable and harmless anomalies.
 
-Example: A benign entity that doesn't alter its environment or pose significant danger unless provoked.
+Example: A being entity that doesn't alter its environment or pose significant danger unless provoked.
 
 2. Class II – Moderate Threat
 Description: Some risk, though manageable with standard containment and procedures.
