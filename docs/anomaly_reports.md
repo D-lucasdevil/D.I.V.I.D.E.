@@ -23,7 +23,7 @@ Below are the documented anomalies:
 - [LD-012](LD-012.md)
 - [LD-013](LD-013.md)
 - [LD-014](LD-014.md)
-- [LD-015]()
+- [LD-015](LD-015.md)
 - [LD-016]()
 - [LD-017]()
 - [LD-018]()
