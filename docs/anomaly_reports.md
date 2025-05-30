@@ -31,6 +31,7 @@ Below are the documented anomalies:
 - [LD-020](LD-020.md)
 - [LD-021](LD-021.md)
 - [LD-022](LD-022.md)
+- [LD-023](LD-023.md)
 
 
 ---
