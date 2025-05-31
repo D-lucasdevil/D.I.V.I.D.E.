@@ -114,6 +114,35 @@ Redacted: Information suppressed for safety and secrecy. These anomalies may tra
 
 
 
+***HOW DO ANOMALIES WORK:***  
+
+**What Does “LD” Stand For?**  
+The classification code “LD” stands for “Liminal Division”, the division responsible for locating, documenting, and (if possible) containing or neutralizing supernatural, reality-bending, or otherwise anomalous entities and objects. Each anomaly is assigned a unique LD ID number (e.g., LD-011, LD-023) for cataloging and identification.  
+
+**Why Are Some Anomalies Missing?**  
+*Not all anomalies are documented publicly or internally. This can be due to several reasons:*  
+
+Terminated Cases: Some anomalies were permanently destroyed or neutralized. If no data remains or if they posed no lasting threat or if their data is not worth keeping, they may be removed from active records.  
+
+Undiscovered Anomalies: The world is vast — many anomalies still remain hidden or misunderstood. Reports come in daily from all over the globe.  
+
+Withheld or Stolen: Certain individuals have discovered powerful anomalies and taken them for personal use. This includes rogue agents, civilians, and corporate interests.  
+
+Task Force Suppression: The APA Task Force actively hunts, retrieves, or destroys anomalies before they spread or fall into the wrong hands. Still, some slip through the cracks.  
+
+**What Qualifies as an Anomaly?**  
+Any object, creature, location, or substance that breaks known scientific laws or causes extreme psychological, physical, or dimensional effects. Most anomalies:  
+
+Defy conventional physics or biology  
+
+Exhibit sentience, manipulation, or hostile traits  
+
+Can’t be safely explained or reproduced  
+
+Must be handled under strict containment protocols  
+
+
+
 
 
 
