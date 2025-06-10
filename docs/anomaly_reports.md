@@ -39,6 +39,11 @@ Below are the documented anomalies:
 - [LD-028](LD-028.md)
 - [LD-029](LD-029.md)
 - [LD-030](LD-030.md)
+- [LD-031](LD-031.md)
+- [LD-032](LD-032.md)
+- [LD-033](LD-033.md)
+- [LD-034](LD-034.md)
+- [LD-035](LD-035.md)
 
 
 ---
