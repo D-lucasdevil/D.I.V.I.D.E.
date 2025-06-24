@@ -8,6 +8,7 @@ Below are the profiles for various task forces:
 - [ECHO-9 — Echo Unit-9](echo9.md)
 - [BESERK — Tactical Assault](viking.md)
 - [PHANTOM — Stealth Operations](phantom.md)
+- [SORAD — Special Oceanic Retrieval and Analysis Division](SORAD.md)
 
 
 
