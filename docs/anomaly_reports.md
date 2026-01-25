@@ -56,6 +56,7 @@ Below are the documented anomalies:
 - [LD-039](LD-039.md)
 - [LD-040](LD-040.md)
 - [LD-041](LD-041.md)
+- [LD-042](LD-042.md)
 
 
 ---
