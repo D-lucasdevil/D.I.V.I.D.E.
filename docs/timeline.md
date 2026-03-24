@@ -15,8 +15,7 @@ As reality itself began to warp, anomalies became more frequent. Glitches in the
 A surge in the appearance of anomalies spread across the solar system, with reports of strange and dangerous phenomena increasing exponentially. This event seems to correlate with the ongoing research and developments around LD-001.
 
 More to come as we collect more data...
-[Back to Wiki Home](index.md)
-- [Timeline of Events](/docs/timeline.md)
+[Back to Wiki Home](index.md)  
 
 
 
