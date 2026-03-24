@@ -53,7 +53,7 @@ Provides opportunity to purchase or confiscate anomalies
 **Any discovered anomaly can be:**  
 Purchased  
 Temporarily confiscated for analysis  
-Permanently seized if deemed dangerous  
+Permanently seized if deemed dangerous but they will be offered the average sum of money that tier of abnormality sells for 
 If an individual resists and weaponizes an anomaly:  
 Immediate termination authorized  
 Artifact recovered without negotiation  
