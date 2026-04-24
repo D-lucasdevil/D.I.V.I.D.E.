@@ -45,6 +45,7 @@
     <a href="timeline.html">Timeline of Events</a>
     <a href="anomaly_reports.html">Anomaly Reports</a>
     <a href="personal.html">Personnel</a>
+    <a href="servant_cards.html">Servant Cards</a>
     <a href="black_streets.html">Black Streets</a>
     <a href="doro_sightings.html">Doro Sightings</a>
     <a href="notes_from_inside.html">Notes from Inside</a>
