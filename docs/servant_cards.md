@@ -1,4 +1,4 @@
-****File: SYS-01 — “Servant Card System”****  
+**File: SYS-01 — “Servant Card System”**  
 
 **Designation: Post-Termination Anomalous Artifact System**  
 **Threat Level: Variable (User-Dependent)**  
