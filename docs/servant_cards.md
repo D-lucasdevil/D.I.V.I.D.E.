@@ -42,7 +42,8 @@ Some can become stronger under specific users
 Behavior & Control:  
 Servants generally follow commands  
 However, they are not fully controlled  
-Known Exceptions:  
+
+**Known Exceptions:**  
 Servants may:  
 Refuse commands  
 Refuse to fight  
@@ -63,15 +64,18 @@ Power output increases
 Tier I anomaly + human user  
 Achieved perfect sync  
 Temporarily classified as Tier III combat threat  
-Limitations:  
+
+**Limitations:**  
 High-tier anomalies are:  
 More likely to reject control  
 More unstable as Servants  
 Extremely powerful Servants may:  
 Ignore orders entirely  
 Act independently  
-Refuse participation in combat  
-Trade & Black Market:  
+Refuse participation in combat 
+
+
+**Trade & Black Market:**  
 
 **Servant Cards are:**  
 
