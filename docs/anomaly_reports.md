@@ -68,6 +68,7 @@ Below are the documented anomalies:
 - [LD-051](LD-051.md)
 - [LD-052](LD-052.md)
 - [LD-053](LD-053.md)
+- [LD-054](LD-054.md)
 
 
 ---
