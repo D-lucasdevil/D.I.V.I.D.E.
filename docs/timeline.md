@@ -3,7 +3,7 @@
 Here’s a chronological account of key events in the D.I.V.I.D.E. universe:
 
 ## Year 2005: The First Anomaly Was Recorded
-The first anomaly was discovered in 2005, leading to the establishment of D.I.V.I.D.E.  This marked the beginning of an unprecedented series of events that would shape the future of humanity.
+The first anomaly was discovered in 2005, leading to the establishment of D.I.V.I.D.E.  This marked the beginning of an unprecedented series of events that would shape the future of humanity. any and all anomalies have started existing only since 2005 if any say anything before than it must have been from a diffirent dimention as of now we do not understand the anomalies enough but one thing is for sure all anomalies are no older than 2005.
 
 ## Year 2022: The Doro Entity Was First Sighted
 In 2022, the first documented sighting of the mysterious "Doro" entity, also referred to as LD-002, was reported. This event marked the emergence of an unsettling force that would become a cornerstone of D.I.V.I.D.E.’s research.
