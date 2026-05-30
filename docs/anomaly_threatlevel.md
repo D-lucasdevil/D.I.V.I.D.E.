@@ -70,8 +70,8 @@ Below are the documented anomalies by threat levels:
 - [LD-038 — The All-Brewer](LD-038.md)
 - [LD-039 — The Suicide Line](LD-039.md)
 - [LD-041 — The Crow Guard](LD-041.md)
-
-
+- [LD-052 — Judgement Coin](LD-052.md)
+- [LD-057 — Egg of Concepts](LD-057.md)
 
 
 
@@ -95,10 +95,11 @@ Below are the documented anomalies by threat levels:
 - [LD-035 — The Wishing Matron](LD-035.md)
 - [LD-040 — Calcium Devourers](LD-040.md)
 - [LD-047 — Fragment of One’s Imagination](LD-047.md)
-
-
-
-
+- [LD-048 — Price of Immortality](LD-048.md)
+- [LD-051 — Remnants of Ash](LD-051.md)
+- [LD-054 — The Sailor’s Lullaby](LD-054.md)
+- [LD-055 — The Drowned Shepherd](LD-055.md)
+- [LD-056 — The Hollow Seraph](LD-056.md)
 
 
 
@@ -110,8 +111,9 @@ Below are the documented anomalies by threat levels:
 
 - [LD-013 — The Insect Matron](LD-013.md)
 - [LD-042 — The Earth Devourers](LD-042.md)
-
-
+- [LD-049 — RAGE](LD-049.md)
+- [LD-050 — The Calamity Empress](LD-050.md)
+- [LD-053 — The Crimson Impaler](LD-053.md)
 
 
 
