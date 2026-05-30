@@ -72,8 +72,8 @@ Below are the documented anomalies by threat levels:
 - [LD-041 — The Crow Guard](LD-041.md)
 - [LD-052 — Judgement Coin](LD-052.md)
 - [LD-057 — Egg of Concepts](LD-057.md)
-
-
+- [LD-059 — The Murder Bucket](LD-059.md)
+- [LD-062 — The Hollow Farm](LD-062.md)
 
 
 
@@ -100,9 +100,9 @@ Below are the documented anomalies by threat levels:
 - [LD-054 — The Sailor’s Lullaby](LD-054.md)
 - [LD-055 — The Drowned Shepherd](LD-055.md)
 - [LD-056 — The Hollow Seraph](LD-056.md)
-
-
-
+- [LD-058 — The Hunter Tribes](LD-058.md)
+- [LD-061 — The Gravebound Colossus](LD-061.md)
+- [LD-063 — The Hollow Stag](LD-063.md)
 
 
 
@@ -114,8 +114,8 @@ Below are the documented anomalies by threat levels:
 - [LD-049 — RAGE](LD-049.md)
 - [LD-050 — The Calamity Empress](LD-050.md)
 - [LD-053 — The Crimson Impaler](LD-053.md)
-
-
+- [LD-060 — The Timekeeper’s Pocket Watch](LD-060.md)
+- [LD-064 — The Veiled Queen & The Devourer](LD-064.md)
 
 
 
