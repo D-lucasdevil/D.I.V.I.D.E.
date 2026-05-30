@@ -44,6 +44,7 @@
   <div>
     <a href="timeline.html">Timeline of Events</a>
     <a href="anomaly_reports.html">Anomaly Reports</a>
+    <a href="anomaly_threatlevel.html">Anomaly Threat Level</a>
     <a href="personal.html">Personnel</a>
     <a href="servant_cards.html">Servant Cards</a>
     <a href="black_streets.html">Black Streets</a>
