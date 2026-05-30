@@ -18,7 +18,7 @@ Below are the documented anomalies by threat levels:
 
 
 
-#Threat Level: II
+# Threat Level: II
 
 
 
@@ -27,7 +27,7 @@ Below are the documented anomalies by threat levels:
 
 
 
-Threat Level: III
+# Threat Level: III
 
 
 
@@ -37,7 +37,7 @@ Threat Level: III
 
 
 
-Threat Level: IV
+# Threat Level: IV
 
 
 
@@ -47,7 +47,7 @@ Threat Level: IV
 
 
 
-Threat Level: V
+# Threat Level: V
 
 
 
@@ -59,7 +59,7 @@ Threat Level: V
 
 
 
-Threat Level: VI
+# Threat Level: VI
 
 
 
@@ -71,7 +71,7 @@ Threat Level: VI
 
 
 
-Threat Level: VII
+# Threat Level: VII
 
 
 
@@ -84,6 +84,6 @@ Threat Level: VII
 
 
 
-Threat Level: Ω
+# Threat Level: Ω
 
 - [LD-000 — [REDACTED]](LD-000.md)
