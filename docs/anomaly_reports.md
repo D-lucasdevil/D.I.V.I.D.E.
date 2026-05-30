@@ -77,6 +77,7 @@ Below are the documented anomalies:
 - [LD-060](LD-060.md)
 - [LD-061](LD-061.md)
 - [LD-062](LD-062.md)
+- [LD-063](LD-063.md)
 
 
 ---
