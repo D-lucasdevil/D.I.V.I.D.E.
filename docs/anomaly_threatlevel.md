@@ -30,7 +30,7 @@ Below are the documented anomalies by threat levels:
 - [LD-022 — RedSap](LD-022.md)
 - [LD-023 — The Kindler’s Box](LD-023.md)
 - [LD-029 — Flashbang Lens](LD-029.md)
-
+- [LD-046 — Gloom Smoking Tube](LD-046.md)
 
 
 
@@ -63,6 +63,13 @@ Below are the documented anomalies by threat levels:
 - [LD-025 — The Red Stalker](LD-025.md)
 - [LD-027 — Angel Terminal](LD-027.md)
 - [LD-028 — It’s a Fking UFO](LD-028.md)
+- [LD-031 — First Bottle’s Free](LD-031.md)
+- [LD-032 — Free Parking](LD-032.md)
+- [LD-036 — The Hunters](LD-036.md)
+- [LD-037 — The Lost Episode](LD-037.md)
+- [LD-038 — The All-Brewer](LD-038.md)
+- [LD-039 — The Suicide Line](LD-039.md)
+- [LD-041 — The Crow Guard](LD-041.md)
 
 
 
@@ -83,10 +90,11 @@ Below are the documented anomalies by threat levels:
 - [LD-014 — The Knife That Loves Too Deeply](LD-014.md)
 - [LD-017 — The Pactbound Trinket](LD-017.md)
 - [LD-026 — The Perfect Wife](LD-026.md)
-
-
-
-
+- [LD-033 — Black Backseat](LD-033.md)
+- [LD-034 — The Pale Man](LD-034.md)
+- [LD-035 — The Wishing Matron](LD-035.md)
+- [LD-040 — Calcium Devourers](LD-040.md)
+- [LD-047 — Fragment of One’s Imagination](LD-047.md)
 
 
 
@@ -101,7 +109,7 @@ Below are the documented anomalies by threat levels:
 
 
 - [LD-013 — The Insect Matron](LD-013.md)
-
+- [LD-042 — The Earth Devourers](LD-042.md)
 
 
 
@@ -165,9 +173,9 @@ Below are the documented anomalies by threat levels:
 - [LD-001 — Lucas Devil](LD-001.md)
 - [LD-002 — Doro](LD-002.md)
 - [LD-015 — REDACTED](LD-015.md)
-
-
-
+- [LD-043 — The Crimson Judgement](LD-043.md)
+- [LD-044 — The Veiled Judgment](LD-044.md)
+- [LD-045 — DIVA](LD-045.md)
 
 
 
