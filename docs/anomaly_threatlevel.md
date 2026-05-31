@@ -179,6 +179,7 @@ Below are the documented anomalies by threat levels:
 - [LD-043 — The Crimson Judgement](LD-043.md)
 - [LD-044 — The Veiled Judgment](LD-044.md)
 - [LD-045 — DIVA](LD-045.md)
+- [LD-066 — DIVA](LD-066.md)
 
 
 
