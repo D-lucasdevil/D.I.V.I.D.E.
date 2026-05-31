@@ -74,6 +74,7 @@ Below are the documented anomalies by threat levels:
 - [LD-057 — Egg of Concepts](LD-057.md)
 - [LD-059 — The Murder Bucket](LD-059.md)
 - [LD-062 — The Hollow Farm](LD-062.md)
+- [LD-065 — The Rabbit Mother](LD-065.md)
 
 
 
