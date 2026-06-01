@@ -13,6 +13,7 @@ Below are the documented anomalies by threat levels:
 
 
 - [LD-030 — Infinite Pizza Slice](LD-030.md)
+- [LD-067 — The Attempted Entertainer](LD-067.md)
 
 
 
