@@ -108,6 +108,7 @@ Below are the documented anomalies by threat levels:
 - [LD-063 — The Hollow Stag](LD-063.md)
 - [LD-070 — There's A Devil In My Heart](LD-070.md)
 - [LD-071 — Killstreak](LD-071.md)
+- [LD-074 — Judgement](LD-074.md)
 
 
 
