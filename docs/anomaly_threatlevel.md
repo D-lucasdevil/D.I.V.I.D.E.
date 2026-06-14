@@ -78,7 +78,7 @@ Below are the documented anomalies by threat levels:
 - [LD-065 — The Rabbit Mother](LD-065.md)
 - [LD-072 — The Finger Maiden](LD-072.md)
 - [LD-073 — The Watchers](LD-073.md)
-
+- [LD-075 — Phantom Edge](LD-075.md)
 
 
 # Threat Level: III
