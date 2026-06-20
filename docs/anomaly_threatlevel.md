@@ -124,7 +124,7 @@ Below are the documented anomalies by threat levels:
 - [LD-064 — The Veiled Queen & The Devourer](LD-064.md)
 - [LD-068 — The Absolute Zero Blade](LD-068.md)
 - [LD-069 — The Latex Lament](LD-069.md)
-- [LD-075 — The Silent Queen](LD-075.md)
+- [LD-076 — The Silent Queen](LD-076.md)
 
 
 
