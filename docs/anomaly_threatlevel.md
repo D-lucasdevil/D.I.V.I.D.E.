@@ -79,6 +79,7 @@ Below are the documented anomalies by threat levels:
 - [LD-072 — The Finger Maiden](LD-072.md)
 - [LD-073 — The Watchers](LD-073.md)
 - [LD-075 — Phantom Edge](LD-075.md)
+- [LD-077 — The White Maiden](LD-077.md)
 
 
 # Threat Level: III
