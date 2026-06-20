@@ -126,6 +126,7 @@ Below are the documented anomalies by threat levels:
 - [LD-068 — The Absolute Zero Blade](LD-068.md)
 - [LD-069 — The Latex Lament](LD-069.md)
 - [LD-076 — The Silent Queen](LD-076.md)
+- [LD-077 — The Golden-Eyed Lord](LD-077.md)
 
 
 
