@@ -190,7 +190,7 @@ Below are the documented anomalies by threat levels:
 - [LD-044 — The Veiled Judgment](LD-044.md)
 - [LD-045 — DIVA](LD-045.md)
 - [LD-066 — The Silent Executioner](LD-066.md)
-- [LD-079 — The Crimson Witness](LD-079.md)
+- [LD-079 — The Crimson Witness](LD-079.md) 
 
 
 
