@@ -111,6 +111,7 @@ Below are the documented anomalies by threat levels:
 - [LD-070 — There's A Devil In My Heart](LD-070.md)
 - [LD-071 — Killstreak](LD-071.md)
 - [LD-074 — Judgement](LD-074.md)
+- [LD-081 — The Corrosive Drake](LD-081.md)
 
 
 
