@@ -94,6 +94,7 @@ Below are the documented anomalies:
 - [LD-077](LD-077.md)
 - [LD-078](LD-078.md)
 - [LD-079](LD-079.md)
+- [LD-080](LD-080.md)
 
 ---
 
