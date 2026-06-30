@@ -129,6 +129,7 @@ Below are the documented anomalies by threat levels:
 - [LD-069 — The Latex Lament](LD-069.md)
 - [LD-076 — The Silent Queen](LD-076.md)
 - [LD-077 — The Golden-Eyed Lord](LD-077.md)
+- [LD-082 — The Mist Hound](LD-082.md)
 
 
 
