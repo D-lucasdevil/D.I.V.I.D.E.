@@ -97,6 +97,7 @@ Below are the documented anomalies:
 - [LD-080](LD-080.md)
 - [LD-081](LD-081.md)
 - [LD-082](LD-082.md)
+- [LD-083](LD-083.md)
 
 
 
