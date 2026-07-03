@@ -81,6 +81,8 @@ Below are the documented anomalies by threat levels:
 - [LD-075 — Phantom Edge](LD-075.md)
 - [LD-077 — The White Maiden](LD-077.md)
 - [LD-080 — The Marionette](LD-080.md)
+- [LD-084 — The Mourning Coffin](LD-084.md)
+
 
 
 # Threat Level: III
