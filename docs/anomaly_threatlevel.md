@@ -83,6 +83,7 @@ Below are the documented anomalies by threat levels:
 - [LD-080 — The Marionette](LD-080.md)
 - [LD-084 — The Mourning Coffin](LD-084.md)
 - [LD-085 — Eclipse](LD-085.md)
+- [LD-086 — The Hook Embrace](LD-086.md)
 
 
 
