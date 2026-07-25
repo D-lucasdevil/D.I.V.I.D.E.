@@ -84,6 +84,7 @@ Below are the documented anomalies by threat levels:
 - [LD-084 — The Mourning Coffin](LD-084.md)
 - [LD-085 — Eclipse](LD-085.md)
 - [LD-086 — The Hook Embrace](LD-086.md)
+- [LD-087 — The Second Skin](LD-087.md)
 
 
 
