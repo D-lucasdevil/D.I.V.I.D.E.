@@ -118,6 +118,7 @@ Below are the documented anomalies by threat levels:
 - [LD-074 — Dominance](LD-074.md)
 - [LD-081 — The Corrosive Drake](LD-081.md)
 - [LD-083 — The HellBreaker](LD-083.md)
+- [LD-089 — The Missing](LD-089.md)
 
 
 
@@ -200,7 +201,7 @@ Below are the documented anomalies by threat levels:
 - [LD-045 — DIVA](LD-045.md)
 - [LD-066 — The Silent Executioner](LD-066.md)
 - [LD-079 — The Crimson Witness](LD-079.md)
-- [LD-088 — “The Mercy of Life”](LD-088.md) 
+- [LD-088 — The Mercy of Life](LD-088.md) 
 
 
 
