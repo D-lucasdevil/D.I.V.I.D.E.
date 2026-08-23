@@ -137,6 +137,7 @@ Below are the documented anomalies by threat levels:
 - [LD-076 — The Silent Queen](LD-076.md)
 - [LD-078 — The Golden-Eyed Lord](LD-078.md)
 - [LD-082 — The Mist Hound](LD-082.md)
+- [LD-090 — Forever Diamonds](LD-090.md)
 
 
 
