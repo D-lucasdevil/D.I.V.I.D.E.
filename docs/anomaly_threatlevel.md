@@ -119,6 +119,7 @@ Below are the documented anomalies by threat levels:
 - [LD-081 — The Corrosive Drake](LD-081.md)
 - [LD-083 — The HellBreaker](LD-083.md)
 - [LD-089 — The Missing](LD-089.md)
+- [LD-091 — I Love A Man In Uniform](LD-091.md)
 
 
 
