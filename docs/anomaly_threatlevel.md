@@ -85,6 +85,7 @@ Below are the documented anomalies by threat levels:
 - [LD-085 — Eclipse](LD-085.md)
 - [LD-086 — The Hook Embrace](LD-086.md)
 - [LD-087 — The Second Skin](LD-087.md)
+- [LD-093 — Don't Fear The Reaper](LD-093.md)
 
 
 
