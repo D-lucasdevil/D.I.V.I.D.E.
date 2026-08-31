@@ -109,6 +109,7 @@ Below are the documented anomalies:
 - [LD-092](LD-092.md)
 - [LD-093](LD-093.md)
 - [LD-094](LD-094.md)
+- [LD-095](LD-095.md)
 
 
 
