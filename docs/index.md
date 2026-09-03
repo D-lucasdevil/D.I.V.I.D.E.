@@ -217,7 +217,7 @@
     .footer {
       border-top: 1px solid #1a0000;
       padding-top: 20px;
-      font-size: 10px;
+      font-size: 100%;
       color: #333;
       letter-spacing: 1px;
       line-height: 1.8;
