@@ -42,8 +42,8 @@
     /* Header */
     .header {
       border: 1px solid #3a0000;
-      padding: 30px;
-      margin-bottom: 30px;
+      padding: 50px;
+      margin-bottom: 50px;
       position: relative;
       background: linear-gradient(180deg, #0f0000 0%, #080808 100%);
     }
@@ -51,7 +51,7 @@
     .header::before {
       content: '// CLASSIFIED //';
       position: absolute;
-      top: -10px;
+      top: 10px;
       left: 20px;
       background: #080808;
       padding: 0 10px;
@@ -65,7 +65,7 @@
       position: absolute;
       top: 0;
       right: 0;
-      width: 40px;
+      width: 100%;
       height: 40px;
       border-top: 2px solid #8b0000;
       border-right: 2px solid #8b0000;
