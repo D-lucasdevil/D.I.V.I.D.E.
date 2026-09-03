@@ -42,8 +42,8 @@
     /* Header */
     .header {
       border: 1px solid #3a0000;
-      padding: 50px;
-      margin-bottom: 50px;
+      padding: 30px;
+      margin-bottom: 30px;
       position: relative;
       background: linear-gradient(180deg, #0f0000 0%, #080808 100%);
     }
@@ -51,7 +51,7 @@
     .header::before {
       content: '// CLASSIFIED //';
       position: absolute;
-      top: 10px;
+      top: -10px;
       left: 20px;
       background: #080808;
       padding: 0 10px;
@@ -65,8 +65,8 @@
       position: absolute;
       top: 0;
       right: 0;
-      width: 100%;
-      height: 100%;
+      width: 40px;
+      height: 40px;
       border-top: 2px solid #8b0000;
       border-right: 2px solid #8b0000;
     }
@@ -243,7 +243,7 @@
       <div class="clearance-badge">Clearance Level 1+ Required</div>
     </div>
 
-    <img class="hero-image" src="<img width="1894" height="1313" alt="image" src="https://github.com/user-attachments/assets/d272ecfd-4803-4c48-a0c6-8370ca14fca7" />" alt="D.I.V.I.D.E. Header" />
+    <img class="hero-image" src="https://github.com/user-attachments/assets/f0f5e73b-c5f5-4b3d-b1ef-b560a87e3bc5" alt="D.I.V.I.D.E. Header" />
 
     <div class="status-bar">
       <span><span class="status-dot"></span>DATABASE ONLINE</span>
