@@ -38,7 +38,8 @@
   
 
   <!-- Image from Twitter or your custom image -->
-  <img src="https://pbs.twimg.com/media/Gqb7EnFXkAATO-R?format=jpg&name=medium" />
+  <img width="1899" height="1939" alt="calcium" src="https://github.com/user-attachments/assets/f0f5e73b-c5f5-4b3d-b1ef-b560a87e3bc5" />
+
 
   <!-- Links to different pages -->
   <div>
