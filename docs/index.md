@@ -66,7 +66,7 @@
       top: 0;
       right: 0;
       width: 100%;
-      height: 40px;
+      height: 100%;
       border-top: 2px solid #8b0000;
       border-right: 2px solid #8b0000;
     }
