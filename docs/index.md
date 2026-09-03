@@ -243,7 +243,7 @@
       <div class="clearance-badge">Clearance Level 1+ Required</div>
     </div>
 
-    <img class="hero-image" src="https://github.com/user-attachments/assets/f0f5e73b-c5f5-4b3d-b1ef-b560a87e3bc5" alt="D.I.V.I.D.E. Header" />
+    <img class="hero-image" src="<img width="1894" height="1313" alt="image" src="https://github.com/user-attachments/assets/d272ecfd-4803-4c48-a0c6-8370ca14fca7" />" alt="D.I.V.I.D.E. Header" />
 
     <div class="status-bar">
       <span><span class="status-dot"></span>DATABASE ONLINE</span>
