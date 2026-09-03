@@ -27,9 +27,9 @@ img {
   height: auto;
   border-radius: 8px;
   margin-bottom: 20px;
-  display: block;           /* Important for proper spacing */
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* Optional: subtle shadow */
-    }
+  display: block;
+  width: 100%;               /* ← This makes it stretch the full width */
+}
   </style>
 
 </head>
