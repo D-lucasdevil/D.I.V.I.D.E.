@@ -102,12 +102,12 @@
     /* Hero image */
     .hero-image {
       width: 100%;
-      max-height: 400px;
+      max-height: 100%;
       object-fit: cover;
       border: 1px solid #1a0000;
       margin-bottom: 30px;
       filter: contrast(1.1) saturate(0.8);
-      display: block;
+      display: auto;
     }
 
     /* Section label */
