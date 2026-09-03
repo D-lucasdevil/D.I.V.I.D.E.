@@ -22,11 +22,13 @@
     }
 
     /* Style for the image */
-    img {
-      max-width: 100%;          /* Make sure the image is responsive */
-      height: auto;             /* Maintain aspect ratio */
-      border-radius: 8px;       /* Add some rounded corners to the image */
-      margin-bottom: 20px;      /* Add space below the image */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  display: block;           /* Important for proper spacing */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* Optional: subtle shadow */
     }
   </style>
 
