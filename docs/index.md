@@ -1,5 +1,4 @@
 
-
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -42,10 +41,10 @@
 
     /* Header */
     .header {
-      border: 100% solid #3a0000;
-      padding: 100%;
-      margin-bottom: 100%;
-      position: auto;
+      border: 1px solid #3a0000;
+      padding: 30px;
+      margin-bottom: 30px;
+      position: relative;
       background: linear-gradient(180deg, #0f0000 0%, #080808 100%);
     }
 
@@ -130,7 +129,7 @@
       margin-bottom: 30px;
     }
 
-    @media (max-width: 100%) {
+    @media (max-width: 600px) {
       .nav-grid {
         grid-template-columns: 1fr;
       }
@@ -217,7 +216,7 @@
     .footer {
       border-top: 1px solid #1a0000;
       padding-top: 20px;
-      font-size: 100%;
+      font-size: 10px;
       color: #333;
       letter-spacing: 1px;
       line-height: 1.8;
@@ -248,7 +247,7 @@
 
     <div class="status-bar">
       <span><span class="status-dot"></span>DATABASE ONLINE</span>
-      <span>ACTIVE ANOMALIES: 96</span>
+      <span>ACTIVE ANOMALIES: 54</span>
       <span>THREAT STATUS: ELEVATED</span>
     </div>
 
