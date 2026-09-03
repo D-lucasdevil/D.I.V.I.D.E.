@@ -129,7 +129,7 @@
       margin-bottom: 30px;
     }
 
-    @media (max-width: 600px) {
+    @media (max-width: 100%) {
       .nav-grid {
         grid-template-columns: 1fr;
       }
@@ -247,7 +247,7 @@
 
     <div class="status-bar">
       <span><span class="status-dot"></span>DATABASE ONLINE</span>
-      <span>ACTIVE ANOMALIES: 54</span>
+      <span>ACTIVE ANOMALIES: 96</span>
       <span>THREAT STATUS: ELEVATED</span>
     </div>
 
