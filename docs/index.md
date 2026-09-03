@@ -42,10 +42,10 @@
 
     /* Header */
     .header {
-      border: 1px solid #3a0000;
-      padding: 30px;
-      margin-bottom: 30px;
-      position: relative;
+      border: 100% solid #3a0000;
+      padding: 100%;
+      margin-bottom: 100%;
+      position: auto;
       background: linear-gradient(180deg, #0f0000 0%, #080808 100%);
     }
 
