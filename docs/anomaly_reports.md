@@ -155,7 +155,6 @@
     .search-bar::placeholder { color: #333; }
     .search-bar:focus { border-color: #cc0000; }
 
-    /* Legend */
     .legend {
       display: flex;
       flex-wrap: wrap;
@@ -172,10 +171,7 @@
       gap: 6px;
       font-size: 10px;
       letter-spacing: 1px;
-      cursor: pointer;
       padding: 3px 8px;
-      border: 1px solid transparent;
-      transition: border-color 0.2s;
     }
 
     .legend-dot {
@@ -184,34 +180,36 @@
       flex-shrink: 0;
     }
 
-    .anomaly-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
-      gap: 5px;
+    /* Single column list */
+    .anomaly-list {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
       margin-bottom: 30px;
     }
 
-    @media (max-width: 600px) {
-      .anomaly-grid { grid-template-columns: 1fr 1fr; }
-    }
-
-    /* Base link style */
     .anomaly-link {
       display: flex;
       align-items: center;
-      gap: 8px;
-      padding: 8px 12px;
+      gap: 10px;
+      padding: 10px 14px;
       background-color: #0d0d0d;
       border: 1px solid #1a1a1a;
       border-left: 3px solid transparent;
       color: #777;
       text-decoration: none;
-      font-size: 11px;
+      font-size: 12px;
       letter-spacing: 0.5px;
       transition: all 0.15s ease;
     }
 
-    /* Tier color classes */
+    .tier-dot {
+      width: 6px; height: 6px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    /* Tier colors */
     .t0  { border-left-color: #444; }
     .t0:hover  { border-left-color: #888; color: #aaa; background: #0f0f0f; }
 
@@ -241,13 +239,6 @@
 
     .tredacted { border-left-color: #5a0a4a; }
     .tredacted:hover { border-left-color: #ff69b4; color: #ffadd6; background: #120010; }
-
-    /* Colored dot indicator */
-    .tier-dot {
-      width: 6px; height: 6px;
-      border-radius: 50%;
-      flex-shrink: 0;
-    }
 
     .dot-0       { background: #666; }
     .dot-1       { background: #4fc3f7; }
@@ -293,7 +284,6 @@
       <span>THREAT STATUS: ELEVATED</span>
     </div>
 
-    <!-- Legend -->
     <div class="legend">
       <div class="legend-item"><div class="legend-dot dot-0"></div> CLASS 0</div>
       <div class="legend-item"><div class="legend-dot dot-1"></div> CLASS I</div>
@@ -311,212 +301,109 @@
 
     <div class="section-label">// Active Case Files — LD Series //</div>
 
-    <div class="anomaly-grid" id="anomalyGrid">
-      <!-- Ω -->
+    <div class="anomaly-list" id="anomalyGrid">
       <a href="LD-000.html" class="anomaly-link tomega"><div class="tier-dot dot-omega"></div>LD-000 — [REDACTED]</a>
-      <!-- REDACTED -->
       <a href="LD-001.html" class="anomaly-link tredacted"><div class="tier-dot dot-redacted"></div>LD-001 — Lucas Devil</a>
-      <!-- REDACTED -->
       <a href="LD-002.html" class="anomaly-link tredacted"><div class="tier-dot dot-redacted"></div>LD-002 — Doro</a>
-      <!-- III -->
       <a href="LD-003.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-003 — The Drowned Girl</a>
-      <!-- I -->
       <a href="LD-004.html" class="anomaly-link t1"><div class="tier-dot dot-1"></div>LD-004 — The Swine Hybrid</a>
-      <!-- III -->
       <a href="LD-005.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-005 — The Hollow Plaything</a>
-      <!-- I -->
       <a href="LD-006.html" class="anomaly-link t1"><div class="tier-dot dot-1"></div>LD-006 — The Oracle Terminal</a>
-      <!-- II -->
       <a href="LD-007.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-007 — The Visitor's Folklore</a>
-      <!-- II -->
       <a href="LD-008.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-008 — Laughtrack</a>
-      <!-- II -->
       <a href="LD-009.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-009 — The Endless Lift</a>
-      <!-- II -->
       <a href="LD-009.5.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-009.5</a>
-      <!-- III -->
       <a href="LD-010.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-010 — The Pactbound</a>
-      <!-- III -->
       <a href="LD-011.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-011 — The Echo-Faced</a>
-      <!-- III -->
       <a href="LD-012.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-012 — The Molded</a>
-      <!-- IV -->
       <a href="LD-013.html" class="anomaly-link t4"><div class="tier-dot dot-4"></div>LD-013 — The Insect Matron</a>
-      <!-- III -->
       <a href="LD-014.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-014 — The Knife That Loves Too Deeply</a>
-      <!-- REDACTED -->
       <a href="LD-015.html" class="anomaly-link tredacted"><div class="tier-dot dot-redacted"></div>LD-015 — REDACTED</a>
-      <!-- II -->
       <a href="LD-016.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-016 — Andy's Revolver</a>
-      <!-- III -->
       <a href="LD-017.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-017 — The Pactbound Trinket</a>
-      <!-- II -->
       <a href="LD-018.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-018 — REDACTED Neutralized</a>
-      <!-- II -->
       <a href="LD-019.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-019 — The House Always Wins</a>
-      <!-- I -->
       <a href="LD-020.html" class="anomaly-link t1"><div class="tier-dot dot-1"></div>LD-020 — The Finder's Shard</a>
-      <!-- I -->
       <a href="LD-021.html" class="anomaly-link t1"><div class="tier-dot dot-1"></div>LD-021 — Velocity Pills</a>
-      <!-- II -->
       <a href="LD-021.5.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-021.5</a>
-      <!-- I -->
       <a href="LD-022.html" class="anomaly-link t1"><div class="tier-dot dot-1"></div>LD-022 — RedSap</a>
-      <!-- I -->
       <a href="LD-023.html" class="anomaly-link t1"><div class="tier-dot dot-1"></div>LD-023 — The Kindler's Box</a>
-      <!-- II -->
       <a href="LD-023.5.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-023.5</a>
-      <!-- II -->
       <a href="LD-024.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-024 — The Hunting Slide</a>
-      <!-- II -->
       <a href="LD-025.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-025 — The Red Stalker</a>
-      <!-- III -->
       <a href="LD-026.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-026 — The Perfect Wife</a>
-      <!-- II -->
       <a href="LD-027.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-027 — Angel Terminal</a>
-      <!-- II -->
       <a href="LD-028.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-028 — It's a Fking UFO</a>
-      <!-- I -->
       <a href="LD-029.html" class="anomaly-link t1"><div class="tier-dot dot-1"></div>LD-029 — Flashbang Lens</a>
-      <!-- 0 -->
       <a href="LD-030.html" class="anomaly-link t0"><div class="tier-dot dot-0"></div>LD-030 — Infinite Pizza Slice</a>
-      <!-- II -->
       <a href="LD-031.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-031 — First Bottle's Free</a>
-      <!-- II -->
       <a href="LD-032.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-032 — Free Parking</a>
-      <!-- III -->
       <a href="LD-033.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-033 — Black Backseat</a>
-      <!-- III -->
       <a href="LD-034.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-034 — The Pale Man</a>
-      <!-- III -->
       <a href="LD-035.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-035 — The Wishing Matron</a>
-      <!-- III -->
       <a href="LD-035.5.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-035.5</a>
-      <!-- II -->
       <a href="LD-036.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-036 — The Hunters</a>
-      <!-- II -->
       <a href="LD-036.5.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-036.5</a>
-      <!-- II -->
       <a href="LD-037.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-037 — The Lost Episode</a>
-      <!-- II -->
       <a href="LD-037.5.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-037.5</a>
-      <!-- II -->
       <a href="LD-038.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-038 — The All-Brewer</a>
-      <!-- II -->
       <a href="LD-039.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-039 — The Suicide Line</a>
-      <!-- III -->
       <a href="LD-040.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-040 — Calcium Devourers</a>
-      <!-- II -->
       <a href="LD-041.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-041 — The Crow Guard</a>
-      <!-- IV -->
       <a href="LD-042.html" class="anomaly-link t4"><div class="tier-dot dot-4"></div>LD-042 — The Earth Devourers</a>
-      <!-- REDACTED -->
       <a href="LD-043.html" class="anomaly-link tredacted"><div class="tier-dot dot-redacted"></div>LD-043 — The Crimson Judgement</a>
-      <!-- REDACTED -->
       <a href="LD-044.html" class="anomaly-link tredacted"><div class="tier-dot dot-redacted"></div>LD-044 — The Veiled Judgment</a>
-      <!-- REDACTED -->
       <a href="LD-045.html" class="anomaly-link tredacted"><div class="tier-dot dot-redacted"></div>LD-045 — DIVA</a>
-      <!-- I -->
       <a href="LD-046.html" class="anomaly-link t1"><div class="tier-dot dot-1"></div>LD-046 — Gloom Smoking Tube</a>
-      <!-- III -->
       <a href="LD-047.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-047 — Fragment of One's Imagination</a>
-      <!-- III -->
       <a href="LD-048.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-048 — Price of Immortality</a>
-      <!-- IV -->
       <a href="LD-049.html" class="anomaly-link t4"><div class="tier-dot dot-4"></div>LD-049 — RAGE</a>
-      <!-- IV -->
       <a href="LD-050.html" class="anomaly-link t4"><div class="tier-dot dot-4"></div>LD-050 — The Calamity Empress</a>
-      <!-- III -->
       <a href="LD-051.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-051 — Remnants of Ash</a>
-      <!-- II -->
       <a href="LD-052.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-052 — Judgement Coin</a>
-      <!-- IV -->
       <a href="LD-053.html" class="anomaly-link t4"><div class="tier-dot dot-4"></div>LD-053 — The Crimson Impaler</a>
-      <!-- III -->
       <a href="LD-054.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-054 — The Sailor's Lullaby</a>
-      <!-- III -->
       <a href="LD-055.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-055 — The Drowned Shepherd</a>
-      <!-- III -->
       <a href="LD-056.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-056 — The Hollow Seraph</a>
-      <!-- II -->
       <a href="LD-057.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-057 — Egg of Concepts</a>
-      <!-- III -->
       <a href="LD-058.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-058 — The Hunter Tribes</a>
-      <!-- II -->
       <a href="LD-059.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-059 — The Murder Bucket</a>
-      <!-- IV -->
       <a href="LD-060.html" class="anomaly-link t4"><div class="tier-dot dot-4"></div>LD-060 — The Timekeeper's Pocket Watch</a>
-      <!-- III -->
       <a href="LD-061.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-061 — The Gravebound Colossus</a>
-      <!-- II -->
       <a href="LD-062.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-062 — The Hollow Farm</a>
-      <!-- III -->
       <a href="LD-063.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-063 — The Hollow Stag</a>
-      <!-- IV -->
       <a href="LD-064.html" class="anomaly-link t4"><div class="tier-dot dot-4"></div>LD-064 — The Veiled Queen & The Devourer</a>
-      <!-- II -->
       <a href="LD-065.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-065 — The Rabbit Mother</a>
-      <!-- REDACTED -->
       <a href="LD-066.html" class="anomaly-link tredacted"><div class="tier-dot dot-redacted"></div>LD-066 — The Silent Executioner</a>
-      <!-- 0 -->
       <a href="LD-067.html" class="anomaly-link t0"><div class="tier-dot dot-0"></div>LD-067 — The Attempted Entertainer</a>
-      <!-- IV -->
       <a href="LD-068.html" class="anomaly-link t4"><div class="tier-dot dot-4"></div>LD-068 — The Absolute Zero Blade</a>
-      <!-- IV -->
       <a href="LD-069.html" class="anomaly-link t4"><div class="tier-dot dot-4"></div>LD-069 — The Latex Lament</a>
-      <!-- III -->
       <a href="LD-070.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-070 — There's A Devil In My Heart</a>
-      <!-- III -->
       <a href="LD-071.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-071 — Killstreak</a>
-      <!-- II -->
       <a href="LD-072.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-072 — The Finger Maiden</a>
-      <!-- II -->
       <a href="LD-073.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-073 — The Watchers</a>
-      <!-- III -->
       <a href="LD-074.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-074 — Dominance</a>
-      <!-- II -->
       <a href="LD-075.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-075 — Phantom Edge</a>
-      <!-- IV -->
       <a href="LD-076.html" class="anomaly-link t4"><div class="tier-dot dot-4"></div>LD-076 — The Silent Queen</a>
-      <!-- II -->
       <a href="LD-077.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-077 — The White Maiden</a>
-      <!-- IV -->
       <a href="LD-078.html" class="anomaly-link t4"><div class="tier-dot dot-4"></div>LD-078 — The Golden-Eyed Lord</a>
-      <!-- REDACTED -->
       <a href="LD-079.html" class="anomaly-link tredacted"><div class="tier-dot dot-redacted"></div>LD-079 — The Crimson Witness</a>
-      <!-- II -->
       <a href="LD-080.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-080 — The Marionette</a>
-      <!-- III -->
       <a href="LD-081.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-081 — The Corrosive Drake</a>
-      <!-- IV -->
       <a href="LD-082.html" class="anomaly-link t4"><div class="tier-dot dot-4"></div>LD-082 — The Mist Hound</a>
-      <!-- III -->
       <a href="LD-083.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-083 — The HellBreaker</a>
-      <!-- II -->
       <a href="LD-084.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-084 — The Mourning Coffin</a>
-      <!-- II -->
       <a href="LD-085.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-085 — Eclipse</a>
-      <!-- II -->
       <a href="LD-086.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-086 — The Hook Embrace</a>
-      <!-- II -->
       <a href="LD-087.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-087 — The Second Skin</a>
-      <!-- REDACTED -->
       <a href="LD-088.html" class="anomaly-link tredacted"><div class="tier-dot dot-redacted"></div>LD-088 — The Mercy of Life</a>
-      <!-- III -->
       <a href="LD-089.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-089 — The Missing</a>
-      <!-- IV -->
       <a href="LD-090.html" class="anomaly-link t4"><div class="tier-dot dot-4"></div>LD-090 — Forever Diamonds</a>
-      <!-- III -->
       <a href="LD-091.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-091 — I Love A Man In Uniform</a>
-      <!-- REDACTED -->
       <a href="LD-092.html" class="anomaly-link tredacted"><div class="tier-dot dot-redacted"></div>LD-092 — The Last Wonderer</a>
-      <!-- II -->
       <a href="LD-093.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-093 — Don't Fear The Reaper</a>
-      <!-- IV -->
       <a href="LD-094.html" class="anomaly-link t4"><div class="tier-dot dot-4"></div>LD-094 — The Last Oath</a>
-      <!-- III -->
       <a href="LD-095.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-095 — Scythe of Sync</a>
-      <!-- II -->
       <a href="LD-096.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-096 — The Candle Maiden</a>
     </div>
 
@@ -536,6 +423,10 @@
         link.style.display = link.textContent.toLowerCase().includes(input) ? 'flex' : 'none';
       });
     }
+  </script>
+
+</body>
+</html>
   </script>
 
 </body>
