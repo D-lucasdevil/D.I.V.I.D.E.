@@ -304,7 +304,7 @@
     </a>
 
     <!-- Dr. Manarine -->
-    <a href="Dr.manarine.html" class="profile-card">
+    <a href="Dr.Manarine.html" class="profile-card">
       <div class="card-accent"></div>
       <div class="card-body">
         <div class="card-id">PROFILE — Senior Anomalous Correlation Researcher</div>
