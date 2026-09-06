@@ -303,6 +303,22 @@
       </div>
     </a>
 
+    <!-- Dr. Manarine -->
+    <a href="Dr.manarine.html" class="profile-card">
+      <div class="card-accent"></div>
+      <div class="card-body">
+        <div class="card-id">PROFILE — Senior Anomalous Correlation Researcher</div>
+        <div class="card-name">Dr. Manarine</div>
+        <div class="card-role">Dr. Manarine Hypertheos The Mad Doctor</div>
+        <div class="card-tags">
+          <span class="card-tag">Level 7+</span>
+          <span class="card-tag">Under Permanent Surveillance</span>
+          <span class="card-tag">LD-088 and New Omega Tier Anomaly Adjacent</span>
+          <span class="card-tag">High Risk</span>
+        </div>
+      </div>
+    </a>
+    
     <!-- APA-01 -->
     <a href="apa-01.html" class="profile-card">
       <div class="card-accent" style="background: #f44336;"></div>
