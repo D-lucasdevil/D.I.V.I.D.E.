@@ -280,7 +280,7 @@
 
     <div class="status-bar">
       <span><span class="status-dot"></span>DATABASE ONLINE</span>
-      <span>TOTAL DOCUMENTED: 96 ANOMALIES</span>
+      <span>TOTAL DOCUMENTED: 97 ANOMALIES</span>
       <span>THREAT STATUS: ELEVATED</span>
     </div>
 
