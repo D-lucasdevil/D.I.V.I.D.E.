@@ -353,6 +353,7 @@
         <a href="LD-087.html" class="anomaly-link">▶ LD-087 — The Second Skin</a>
         <a href="LD-093.html" class="anomaly-link">▶ LD-093 — Don't Fear The Reaper</a>
         <a href="LD-096.html" class="anomaly-link">▶ LD-096 — The Candle Maiden</a>
+        <a href="LD-097.html" class="anomaly-link">▶ LD-097 — The Cannibalistic Meat Cleaver</a>
       </div>
     </div>
 
