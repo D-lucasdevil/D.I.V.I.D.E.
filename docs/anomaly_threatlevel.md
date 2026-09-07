@@ -317,7 +317,7 @@
       <div class="tier-header">
         <span class="tier-badge">CLASS II</span>
         Threat Level: Moderate
-        <span class="tier-count">33 ANOMALIES</span>
+        <span class="tier-count">34 ANOMALIES</span>
       </div>
       <div class="tier-grid">
         <a href="LD-007.html" class="anomaly-link">▶ LD-007 — The Visitor's Folklore</a>
