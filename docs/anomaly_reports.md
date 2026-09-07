@@ -405,6 +405,7 @@
       <a href="LD-094.html" class="anomaly-link t4"><div class="tier-dot dot-4"></div>LD-094 — The Last Oath</a>
       <a href="LD-095.html" class="anomaly-link t3"><div class="tier-dot dot-3"></div>LD-095 — Scythe of Sync</a>
       <a href="LD-096.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-096 — The Candle Maiden</a>
+      <a href="LD-097.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-097 — The Cannibalistic Meat Cleaver</a>
     </div>
 
     <div class="footer">
