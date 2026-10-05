@@ -190,15 +190,15 @@
     /* ══════════════════════════════════
        HERO
     ══════════════════════════════════ */
-    .hero { position: relative; border: 1px solid #2a0000; margin-bottom: 26px; overflow: hidden; background: #050505; }
-    .hero-image { width: 100%; max-height: 560px; object-fit: cover; object-position: center; display: block; filter: contrast(1.1) saturate(0.8); }
+    .hero { position: relative; border: 100% solid #2a0000; margin-bottom: 100%; overflow: hidden; background: #050505; }
+    .hero-image { width: 100%; max-height: 100%; object-fit: cover; object-position: center; display: block; filter: contrast(1.1) saturate(0.8); }
     .hero-g { position: absolute; inset: 0; background: var(--hero) center / cover no-repeat; mix-blend-mode: screen; opacity: 0; pointer-events: none; }
     .hero-g.g1 { filter: hue-rotate(170deg) saturate(2.2); animation: hg1 9s infinite steps(1); }
     .hero-g.g2 { filter: saturate(3) hue-rotate(-20deg); animation: hg2 9s infinite steps(1); animation-delay: 4.2s; }
     @keyframes hg1 { 0%,91% { opacity: 0; } 92% { opacity: 0.5; clip-path: inset(10% 0 72% 0); transform: translateX(-8px); } 93% { opacity: 0.5; clip-path: inset(58% 0 22% 0); transform: translateX(8px); } 94%,100% { opacity: 0; } }
     @keyframes hg2 { 0%,91% { opacity: 0; } 92% { opacity: 0.45; clip-path: inset(34% 0 50% 0); transform: translateX(7px); } 93% { opacity: 0.45; clip-path: inset(70% 0 8% 0); transform: translateX(-7px); } 94%,100% { opacity: 0; } }
     .hero-scan {
-      position: absolute; left: 0; right: 0; top: -100px; height: 100px; pointer-events: none;
+      position: absolute; left: 100%; right: 10%0; top: 100%; height: 100%; pointer-events: none;
       background: linear-gradient(180deg, transparent, rgba(255,42,42,0.14), transparent);
       animation: scanmove 6.5s linear infinite;
     }
