@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#080808">
   <title>D.I.V.I.D.E. — Classified Database</title>
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Rajdhani:wght@400;500;600;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Rajdhani:wght@100%;100%;100%;100%&display=swap');
 
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
