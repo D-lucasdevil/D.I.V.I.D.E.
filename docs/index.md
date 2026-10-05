@@ -190,7 +190,7 @@
     /* ══════════════════════════════════
        HERO
     ══════════════════════════════════ */
-    .hero { position: relative; border: 100% solid #2a0000; margin-bottom: 100%; overflow: hidden; background: #050505; }
+    .hero { position: relative; border: 100% solid #2a0000; margin-bottom: 50%; overflow: hidden; background: #050505; }
     .hero-image { width: 100%; max-height: 100%; object-fit: cover; object-position: center; display: block; filter: contrast(1.1) saturate(0.8); }
     .hero-g { position: absolute; inset: 0; background: var(--hero) center / cover no-repeat; mix-blend-mode: screen; opacity: 0; pointer-events: none; }
     .hero-g.g1 { filter: hue-rotate(170deg) saturate(2.2); animation: hg1 9s infinite steps(1); }
