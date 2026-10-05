@@ -215,7 +215,7 @@
     .hud-t.bl { bottom: 16px; left: 50px; }
     .hud-t.br { bottom: 16px; right: 50px; }
     .hud-t .rec { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: #ff2a2a; margin-right: 7px; animation: blink 1.3s steps(2) infinite; }
-    @media (max-width: 600px) { .hud-t.bl, .hud-t.br { display: none; } }
+    @media (max-width: 100%) { .hud-t.bl, .hud-t.br { display: none; } }
 
     /* ══════════════════════════════════
        STATUS BAR
