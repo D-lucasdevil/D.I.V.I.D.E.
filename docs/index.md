@@ -190,7 +190,7 @@
     /* ══════════════════════════════════
        HERO
     ══════════════════════════════════ */
-    .hero { position: relative; border: 100% solid #2a0000; margin-bottom: 50%; overflow: hidden; background: #050505; }
+    .hero { position: relative; border: 100% solid #2a0000; margin-bottom: 20%; overflow: hidden; background: #050505; }
     .hero-image { width: 100%; max-height: 100%; object-fit: cover; object-position: center; display: block; filter: contrast(1.1) saturate(0.8); }
     .hero-g { position: absolute; inset: 0; background: var(--hero) center / cover no-repeat; mix-blend-mode: screen; opacity: 0; pointer-events: none; }
     .hero-g.g1 { filter: hue-rotate(170deg) saturate(2.2); animation: hg1 9s infinite steps(1); }
@@ -214,7 +214,7 @@
     .hud-t.tr { top: 16px; right: 50px; }
     .hud-t.bl { bottom: 16px; left: 50px; }
     .hud-t.br { bottom: 16px; right: 50px; }
-    .hud-t .rec { display: inline-block; width: 7px; height: 7px; border-radius: 25%; background: #ff2a2a; margin-right: 7px; animation: blink 1.3s steps(2) infinite; }
+    .hud-t .rec { display: inline-block; width: 7px; height: 7px; border-radius: 100%; background: #ff2a2a; margin-right: 7px; animation: blink 1.3s steps(2) infinite; }
     @media (max-width: 100%) { .hud-t.bl, .hud-t.br { display: none; } }
 
     /* ══════════════════════════════════
