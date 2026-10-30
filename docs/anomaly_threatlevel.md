@@ -285,7 +285,7 @@
       <div class="tier-header">
         <span class="tier-badge">CLASS 0</span>
         Threat Level: Zero
-        <span class="tier-count">2 ANOMALIES</span>
+        <span class="tier-count">3 ANOMALIES</span>
       </div>
       <div class="tier-grid">
         <a href="LD-030.html" class="anomaly-link">▶ LD-030 — Infinite Pizza Slice</a>
