@@ -476,7 +476,7 @@
     <div class="status-bar reveal">
       <span class="grp"><span class="status-dot"></span><span class="hi">DATABASE ONLINE</span></span>
       <span class="status-sep">//</span>
-      <span class="grp">ACTIVE ANOMALIES: <span class="hi" id="anomCount">97</span></span>
+      <span class="grp">ACTIVE ANOMALIES: <span class="hi" id="anomCount">98</span></span>
       <span class="status-sep">//</span>
       <span class="grp">THREAT STATUS: <span class="hi">ELEVATED</span>
         <span class="tmeter"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on hot"></i><i></i></span>
