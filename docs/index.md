@@ -600,7 +600,7 @@
 
       /* ══ DATA ══ */
       var TIERS = {
-        '0':        { label: 'Tier 0',    short: '0',        color: '#9e9e9e', n: 2 },
+        '0':        { label: 'Tier 0',    short: '0',        color: '#9e9e9e', n: 3 },
         '1':        { label: 'Tier I',    short: 'I',        color: '#4fc3f7', n: 8 },
         '2':        { label: 'Tier II',   short: 'II',       color: '#4caf50', n: 33 },
         '3':        { label: 'Tier III',  short: 'III',      color: '#ffd600', n: 29 },
