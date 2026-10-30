@@ -315,7 +315,7 @@
     <div class="status-bar reveal">
       <span class="grp"><span class="status-dot"></span><span class="hi">DATABASE ONLINE</span></span>
       <span class="status-sep">//</span>
-      <span class="grp"><span class="hi">TOTAL DOCUMENTED: 97 ANOMALIES</span></span>
+      <span class="grp"><span class="hi">TOTAL DOCUMENTED: 98 ANOMALIES</span></span>
       <span class="status-sep">//</span>
       <span class="grp">THREAT STATUS: <span class="hi">ELEVATED</span></span>
       <span class="status-sep">//</span>
