@@ -290,6 +290,7 @@
       <div class="tier-grid">
         <a href="LD-030.html" class="anomaly-link">▶ LD-030 — Infinite Pizza Slice</a>
         <a href="LD-067.html" class="anomaly-link">▶ LD-067 — The Attempted Entertainer</a>
+        <a href="LD-098.html" class="anomaly-link">▶ LD-098 — The Book Of 7 Deadly Tales</a>
       </div>
     </div>
 
