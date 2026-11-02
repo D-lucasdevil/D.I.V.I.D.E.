@@ -480,6 +480,7 @@
       <a href="LD-096.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-096 — The Candle Maiden</a>
       <a href="LD-097.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-097 — The Cannibalistic Meat Cleaver</a>
       <a href="LD-098.html" class="anomaly-link t0"><div class="tier-dot dot-0"></div>LD-098 — The Book of 7 Deadly Tales</a>
+      <a href="LD-099.html" class="anomaly-link t4"><div class="tier-dot dot-4"></div>LD-099 — The Innocent Fury (Wrath) </a>
     </div>
 
     <div class="view" id="gridView"></div>
