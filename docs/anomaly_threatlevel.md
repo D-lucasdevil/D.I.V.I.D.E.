@@ -420,6 +420,7 @@
         <a href="LD-082.html" class="anomaly-link">▶ LD-082 — The Mist Hound</a>
         <a href="LD-090.html" class="anomaly-link">▶ LD-090 — Forever Diamonds</a>
         <a href="LD-094.html" class="anomaly-link">▶ LD-094 — The Last Oath</a>
+        <a href="LD-099.html" class="anomaly-link">▶ LD-099 — The "Innocent Fury" (Wrath)</a>
       </div>
     </div>
 
