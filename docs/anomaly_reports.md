@@ -1,4 +1,4 @@
-
+w
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -481,6 +481,7 @@
       <a href="LD-097.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-097 — The Cannibalistic Meat Cleaver</a>
       <a href="LD-098.html" class="anomaly-link t0"><div class="tier-dot dot-0"></div>LD-098 — The Book of 7 Deadly Tales</a>
       <a href="LD-099.html" class="anomaly-link t4"><div class="tier-dot dot-4"></div>LD-099 — The Innocent Fury (Wrath) </a>
+      <a href="LD-0101.html" class="anomaly-link t2"><div class="tier-dot dot-2"></div>LD-0101 — I Wonder Globe </a>
     </div>
 
     <div class="view" id="gridView"></div>
